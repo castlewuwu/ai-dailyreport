@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-03-24](./2026-03-24.md) - OpenAI谈判核聚变供电、Meta收购Moltbook、NanoClaw合作Docker、Zuckerberg训练AI CEO代理人
 - [2026-03-23](./2026-03-23.md) - 小模型逆袭Qwen 3.5 Small击败120B、Kimi K2.5登陆边缘计算、MiroThinker 72B开源发布
 - [2026-03-22](./2026-03-22.md) - 小米万亿参数模型MiMo-V2-Pro曝光、GPT-5.4 Mini免费开放、Anthropic遇险竞对出手相救
 - [2026-03-21](./2026-03-21.md) - 小米Hunter Alpha揭秘、Pentagon弃用Claude风波、Gemini Personal Intelligence开放
