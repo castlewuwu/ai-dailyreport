@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-03-26](./2026-03-26.md) - Karpathy自嘲AI Agent精神错乱、Nature"生命语言"AI突破、Caris AI纠正癌症误诊
 - [2026-03-25](./2026-03-25.md) - Anthropic诉五角大楼关键听证、Sora将停用、Arm AGI CPU发布、WebinarTV抓取争议
 - [2026-03-24](./2026-03-24.md) - OpenAI谈判核聚变供电、Meta收购Moltbook、NanoClaw合作Docker、Zuckerberg训练AI CEO代理人
 - [2026-03-23](./2026-03-23.md) - 小模型逆袭Qwen 3.5 Small击败120B、Kimi K2.5登陆边缘计算、MiroThinker 72B开源发布
