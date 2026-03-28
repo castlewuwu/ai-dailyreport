@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-03-28](./2026-03-28.md) - DeepSeek V4发布、Qwen3-Max-Thinking、Claude Opus 4.6、NASA火星探测AI
 - [2026-03-27](./2026-03-27.md) - GPT-5.4持续热议、Claude vs ChatGPT竞争、国产大模型发力、AI Agent主战场
 - [2026-03-26](./2026-03-26.md) - Karpathy自嘲AI Agent精神错乱、Nature"生命语言"AI突破、Caris AI纠正癌症误诊
 - [2026-03-25](./2026-03-25.md) - Anthropic诉五角大楼关键听证、Sora将停用、Arm AGI CPU发布、WebinarTV抓取争议
