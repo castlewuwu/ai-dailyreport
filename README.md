@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [2026-04-02](./2026-04-02.md) - OpenAI融资$122B、Q1 VC融资创纪录、DeepSeek V4泄露、Anthropic $30B
+- [2026-04-02](./2026-04-02.md) - Claude源代码泄露、OpenAI融资$122B、Q1 VC融资创纪录、DeepSeek V4
 - [2026-04-01](./2026-04-01.md) - GPT-5免费开放、Trae国内版上线、Manus通用Agent、DeepSeek V3.2降价
 - [2026-03-31](./2026-03-31.md) - Claude上火星、Opus 4.6发布、ChatGPT搜索免费开放、中国开源模型统治硅谷
 - [2026-03-30](./2026-03-30.md) - DeepSeek宕机7小时、AI脑烧现象、GPT-5.4发布、Qwen 3.5 Small开源
