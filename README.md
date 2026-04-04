@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-04](./2026-04-04.md) - Claude攻破FreeBSD、系统提示词泄露、AI开处方、Anthropic一天三炸
 - [2026-04-03](./2026-04-03.md) - GPT-5.4超越人类基准线、Gemini 3.1 Ultra、Anthropic道德抉择、Agentic AI元年
 - [2026-04-02](./2026-04-02.md) - Claude源代码泄露、OpenAI融资$122B、Q1 VC融资创纪录、DeepSeek V4
 - [2026-04-01](./2026-04-01.md) - GPT-5免费开放、Trae国内版上线、Manus通用Agent、DeepSeek V3.2降价
