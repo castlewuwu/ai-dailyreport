@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-07](./2026-04-07.md) - OpenAI/Anthropic/Google联手打蒸馏、GPT-5.5 Spud、Claude Mythos泄露
 - [2026-04-05](./2026-04-05.md) - OpenAI融资$1220亿、Anthropic封杀第三方、Netflix开源VOID、Meta AI植入WhatsApp
 - [2026-04-04](./2026-04-04.md) - Claude攻破FreeBSD、系统提示词泄露、AI开处方、Anthropic一天三炸
 - [2026-04-03](./2026-04-03.md) - GPT-5.4超越人类基准线、Gemini 3.1 Ultra、Anthropic道德抉择、Agentic AI元年
