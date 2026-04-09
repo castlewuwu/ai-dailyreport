@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-09](./2026-04-09.md) - DeepSeek V4发布、OpenAI $1220亿融资、大模型三强争霸、国产AI份额飙升
 - [2026-04-08](./2026-04-08.md) - Claude Mythos发布、SpaceX $250B收购xAI、OpenAI $1220亿融资
 - [2026-04-07](./2026-04-07.md) - OpenAI/Anthropic/Google联手打蒸馏、GPT-5.5 Spud、Claude Mythos泄露
 - [2026-04-05](./2026-04-05.md) - OpenAI融资$1220亿、Anthropic封杀第三方、Netflix开源VOID、Meta AI植入WhatsApp
