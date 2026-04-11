@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-11](./2026-04-11.md) - OpenAI收购TBPN、Anthropic组建PAC、Claude Cowork引发SaaSpocalypse、Gemma 4发布
 - [2026-04-10](./2026-04-10.md) - Claude Mythos发布、Anthropic收入$300亿、Google整合NotebookLM、Meta Muse Spark
 - [2026-04-09](./2026-04-09.md) - DeepSeek V4发布、OpenAI $1220亿融资、大模型三强争霸、国产AI份额飙升
 - [2026-04-08](./2026-04-08.md) - Claude Mythos发布、SpaceX $250B收购xAI、OpenAI $1220亿融资
