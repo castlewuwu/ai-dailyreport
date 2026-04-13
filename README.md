@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-13](./2026-04-13.md) - OpenAI抨击Anthropic算力、工信部AI数据集政策、日本9巨头组建AI公司、AI股市冷静期
 - [2026-04-12](./2026-04-12.md) - Gemini推出Notebooks、Anthropic Mythos vs Gemini 3.1、MIT蛋白质AI、DeepSeek专家模式
 - [2026-04-11](./2026-04-11.md) - OpenAI收购TBPN、Anthropic组建PAC、Claude Cowork引发SaaSpocalypse、Gemma 4发布
 - [2026-04-10](./2026-04-10.md) - Claude Mythos发布、Anthropic收入$300亿、Google整合NotebookLM、Meta Muse Spark
