@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-15](./2026-04-15.md) - OpenAI gpt-oss开源模型深度解析、DeepSeek快速/专家模式、MIT动态蛋白质AI、Claude Code生态爆发
 - [2026-04-14](./2026-04-14.md) - Sam Altman住所遭纵火、Anthropic收入暴涨、OpenAI收购Hiro、轨道计算集群开放、Microsoft开发OpenClaw类Agent
 - [2026-04-13](./2026-04-13.md) - OpenAI抨击Anthropic算力、工信部AI数据集政策、日本9巨头组建AI公司、AI股市冷静期
 - [2026-04-12](./2026-04-12.md) - Gemini推出Notebooks、Anthropic Mythos vs Gemini 3.1、MIT蛋白质AI、DeepSeek专家模式
