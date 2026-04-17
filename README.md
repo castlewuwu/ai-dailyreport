@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-17](./2026-04-17.md) - Claude Opus 4.7正式发布、OpenAI GPT-5.4-Cyber发布、Anthropic用户性能抱怨、Claude Code桌面版重构、AI模型April全景
 - [2026-04-16](./2026-04-16.md) - Microsoft MAI-Image-2-Efficient发布、Claude Code桌面版重构、Claude Cowork企业版GA、Gemini Robotics-ER 1.6、OpenAI vs Microsoft裂痕
 - [2026-04-15](./2026-04-15.md) - OpenAI gpt-oss开源模型深度解析、DeepSeek快速/专家模式、MIT动态蛋白质AI、Claude Code生态爆发
 - [2026-04-14](./2026-04-14.md) - Sam Altman住所遭纵火、Anthropic收入暴涨、OpenAI收购Hiro、轨道计算集群开放、Microsoft开发OpenClaw类Agent
