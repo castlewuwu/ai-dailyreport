@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-18](./2026-04-18.md) - GPT-Rosalind生命科学模型发布、Stanford AI Index 2026报告、Agent生态成熟、Anthropic用户风波后续、国产模型迭代
 - [2026-04-17](./2026-04-17.md) - Claude Opus 4.7正式发布、OpenAI GPT-5.4-Cyber发布、Anthropic用户性能抱怨、Claude Code桌面版重构、AI模型April全景
 - [2026-04-16](./2026-04-16.md) - Microsoft MAI-Image-2-Efficient发布、Claude Code桌面版重构、Claude Cowork企业版GA、Gemini Robotics-ER 1.6、OpenAI vs Microsoft裂痕
 - [2026-04-15](./2026-04-15.md) - OpenAI gpt-oss开源模型深度解析、DeepSeek快速/专家模式、MIT动态蛋白质AI、Claude Code生态爆发
