@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-20](./2026-04-20.md) - Anthropic Mythos网络安全风暴、GPT-5.4-Cyber发布、GPT-Rosalind生命科学、Sam Altman遭袭击、Stanford AI Index 2026
 - [2026-04-19](./2026-04-19.md) - Codex重大更新接管电脑、Agents SDK原生Sandbox、Claude Design发布、MiniMax M2.7开放权重、OpenAI高管离职
 - [2026-04-18](./2026-04-18.md) - GPT-Rosalind生命科学模型发布、Stanford AI Index 2026报告、Agent生态成熟、Anthropic用户风波后续、国产模型迭代
 - [2026-04-17](./2026-04-17.md) - Claude Opus 4.7正式发布、OpenAI GPT-5.4-Cyber发布、Anthropic用户性能抱怨、Claude Code桌面版重构、AI模型April全景
