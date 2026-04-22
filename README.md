@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-22](./2026-04-22.md) - SpaceX收购Cursor $60B、Bezos Project Prometheus $38B估值、Google Deep Research Max发布、Meta员工监控争议、ChatGPT Images 2.0、律所AI幻觉道歉
 - [2026-04-21](./2026-04-21.md) - Amazon加码Anthropic $250亿、Adobe CX Enterprise AI Suite、Big Tech能源成本危机、AI安全工具被攻破、Agentic AI生产部署
 - [2026-04-20](./2026-04-20.md) - Anthropic Mythos网络安全风暴、GPT-5.4-Cyber发布、GPT-Rosalind生命科学、Sam Altman遭袭击、Stanford AI Index 2026
 - [2026-04-19](./2026-04-19.md) - Codex重大更新接管电脑、Agents SDK原生Sandbox、Claude Design发布、MiniMax M2.7开放权重、OpenAI高管离职
