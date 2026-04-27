@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-27](./2026-04-27.md) - DeepSeek百万Token上下文、Claude Mythos发现零日漏洞、MIT CompreSSM模型瘦身、特朗普解雇NSB、Claude Design发布
 - [2026-04-26](./2026-04-26.md) - Anthropic Agent交易市场、Cohere收购Aleph Alpha、Google OSV-Scanner、Free Claude Code开源、Sam Altman道歉
 - [2026-04-25](./2026-04-25.md) - GPT-5.5正式发布、Google $40亿投资Anthropic、DOJ联手马斯克抗AI监管、SpaceX自研GPU、Claude Mythos发现Firefox 271漏洞
 - [2026-04-24](./2026-04-24.md) - GPT-5.5发布、Workspace Agents企业自动化、Claude Mythos引发金融恐慌、Privacy Filter开源、ChatGPT Images 2.0
