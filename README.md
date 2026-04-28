@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-28](./2026-04-28.md) - Musk vs Altman世纪审判、Microsoft-OpenAI AGI条款移除、David Silver融资$1.1B建无人类数据AI、Google印度$15B数据中心、CUA开源桌面Agent框架
 - [2026-04-27](./2026-04-27.md) - DeepSeek百万Token上下文、Claude Mythos发现零日漏洞、MIT CompreSSM模型瘦身、特朗普解雇NSB、Claude Design发布
 - [2026-04-26](./2026-04-26.md) - Anthropic Agent交易市场、Cohere收购Aleph Alpha、Google OSV-Scanner、Free Claude Code开源、Sam Altman道歉
 - [2026-04-25](./2026-04-25.md) - GPT-5.5正式发布、Google $40亿投资Anthropic、DOJ联手马斯克抗AI监管、SpaceX自研GPU、Claude Mythos发现Firefox 271漏洞
