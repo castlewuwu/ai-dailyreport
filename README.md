@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-01](./2026-05-01.md) - Anthropic估值$9000亿、Musk承认蒸馏OpenAI、ChatGPT增长放缓、Altman回旋镖限制Cyber、中国暂停Robotaxi牌照
 - [2026-04-30](./2026-04-30.md) - Microsoft-OpenAI协议大洗牌、Claude Connectors进军创意工具、Google拟$400亿投资Anthropic、中国阻止Meta收购Manus、GPT-5.5 Spud发布
 - [2026-04-29](./2026-04-29.md) - Musk出庭作证、Anthropic事故报告三连击、OpenAI登陆AWS Bedrock、Microsoft-OpenAI新协议详解、iOS 27 AI照片编辑
 - [2026-04-28](./2026-04-28.md) - Musk vs Altman世纪审判、Microsoft-OpenAI AGI条款移除、David Silver融资$1.1B建无人类数据AI、Google印度$15B数据中心、CUA开源桌面Agent框架
