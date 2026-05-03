@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-03](./2026-05-03.md) - Musk承认蒸馏OpenAI、Taylor Swift商标保护形象、Codex Goblin问题、AI Slop研究、Musk庭审挤压证据
 - [2026-05-02](./2026-05-02.md) - 暗钱组织花钱让网红炒作中国AI威胁、Shivon Zilis角色曝光、OpenAI高级账户安全、奥斯卡禁AI获奖、Claude Security企业版
 - [2026-05-01](./2026-05-01.md) - Anthropic估值$9000亿、Musk承认蒸馏OpenAI、ChatGPT增长放缓、Altman回旋镖限制Cyber、中国暂停Robotaxi牌照
 - [2026-04-30](./2026-04-30.md) - Microsoft-OpenAI协议大洗牌、Claude Connectors进军创意工具、Google拟$400亿投资Anthropic、中国阻止Meta收购Manus、GPT-5.5 Spud发布
