@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-05](./2026-05-05.md) - Claude Code针对OpenClaw用户、o1急诊诊断超越医生、Kimi K2.6编程夺魁、VS Code强制Copilot归属、DeepSeek V4前沿水平
 - [2026-05-04](./2026-05-04.md) - Claude Sonnet 4.8+Cardinal泄露、Google Gemini Flash升级、Grok 4.3 API发布、五角大楼AI协议、Mac Mini因AI涨价
 - [2026-05-03](./2026-05-03.md) - Musk承认蒸馏OpenAI、Taylor Swift商标保护形象、Codex Goblin问题、AI Slop研究、Musk庭审挤压证据
 - [2026-05-02](./2026-05-02.md) - 暗钱组织花钱让网红炒作中国AI威胁、Shivon Zilis角色曝光、OpenAI高级账户安全、奥斯卡禁AI获奖、Claude Security企业版
