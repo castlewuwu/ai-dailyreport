@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-07](./2026-05-07.md) - OpenAI狂砸500亿美元算力、Musk审判继续、Samsung万亿市值、Apple R&D突破10%、Gemma 4发布
 - [2026-05-06](./2026-05-06.md) - GPT-5.5 Instant发布、iOS 27开放第三方AI模型、SAP收购Prior Labs、Musk vs Altman世纪审判、Google Cloud暴涨63%
 - [2026-05-05](./2026-05-05.md) - Claude Code针对OpenClaw用户、o1急诊诊断超越医生、Kimi K2.6编程夺魁、VS Code强制Copilot归属、DeepSeek V4前沿水平
 - [2026-05-04](./2026-05-04.md) - Claude Sonnet 4.8+Cardinal泄露、Google Gemini Flash升级、Grok 4.3 API发布、五角大楼AI协议、Mac Mini因AI涨价
