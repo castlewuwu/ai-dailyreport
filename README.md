@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-09](./2026-05-09.md) - Musk vs Altman审判关键阶段、Anthropic联手华尔街$15亿AI服务、政府要求AI发布前审核、Mythos发现金融漏洞、OpenAI算力$500亿
 - [2026-05-08](./2026-05-08.md) - AI首次自我复制、OpenAI手机2027量产、Microsoft-OpenAI协议解绑、白宫AI监管软化、$180亿融资受阻
 - [2026-05-07](./2026-05-07.md) - OpenAI狂砸500亿美元算力、Musk审判继续、Samsung万亿市值、Apple R&D突破10%、Gemma 4发布
 - [2026-05-06](./2026-05-06.md) - GPT-5.5 Instant发布、iOS 27开放第三方AI模型、SAP收购Prior Labs、Musk vs Altman世纪审判、Google Cloud暴涨63%
