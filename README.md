@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-11](./2026-05-11.md) - Anthropic营收暴涨80倍ARR突破$44B、五角大楼AI合同排除Anthropic、SpaceX Colossus 1算力交易、Claude Code速率限制翻倍、Google I/O倒计时一周
 - [2026-05-10](./2026-05-10.md) - Musk vs Altman审判落幕、Meta裁员8000人冲刺AI、Nvidia投资$40亿AI股权、Google Gmail个性化风格、Golden Globes规定AI不得获表演提名
 - [2026-05-09](./2026-05-09.md) - Musk vs Altman审判关键阶段、Anthropic联手华尔街$15亿AI服务、政府要求AI发布前审核、Mythos发现金融漏洞、OpenAI算力$500亿
 - [2026-05-08](./2026-05-08.md) - AI首次自我复制、OpenAI手机2027量产、Microsoft-OpenAI协议解绑、白宫AI监管软化、$180亿融资受阻
