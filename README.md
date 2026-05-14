@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-14](./2026-05-14.md) - Meta隐私聊天、Edge Copilot跨标签、Notion代理中心、Princeton终结荣誉代码、xAI数据中心诉讼
 - [2026-05-13](./2026-05-13.md) - GPT-5.5 Instant发布、Anthropic营收80倍增长ARR$44B、Claude Mythos神秘模型、DeepSeek V4成本革命、Google I/O下周预告
 - [2026-05-12](./2026-05-12.md) - OpenAI成立$4B AI部署公司、纳德拉作证Musk审判、76%企业设立首席AI官、Claude Agent推动Mac Mini需求、AI算力三路融资
 - [2026-05-11](./2026-05-11.md) - Anthropic营收暴涨80倍ARR突破$44B、五角大楼AI合同排除Anthropic、SpaceX Colossus 1算力交易、Claude Code速率限制翻倍、Google I/O倒计时一周
