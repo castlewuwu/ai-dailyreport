@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-16](./2026-05-16.md) - GitHub Copilot桌面App上线、K8s AI代理安全危机、Notion变身代理中心、Zerion开源加密钱包CLI
 - [2026-05-15](./2026-05-15.md) - Google I/O倒计时、Android XR眼镜确认、Aluminium OS泄露、AI代理加密支付、韩国AI公民分红
 - [2026-05-14](./2026-05-14.md) - Meta隐私聊天、Edge Copilot跨标签、Notion代理中心、Princeton终结荣誉代码、xAI数据中心诉讼
 - [2026-05-13](./2026-05-13.md) - GPT-5.5 Instant发布、Anthropic营收80倍增长ARR$44B、Claude Mythos神秘模型、DeepSeek V4成本革命、Google I/O下周预告
