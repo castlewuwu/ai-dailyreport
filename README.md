@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-18](./2026-05-18.md) - GPT-5.5 API开放、ChatGPT理财功能上线、Stanford AI Index揭示AI能耗危机、Google I/O明日开幕
 - [2026-05-17](./2026-05-17.md) - Google I/O倒计时48小时、Anthropic估值冲刺$900B、Nectar Social融资$30M、长期陪伴代理安全隐患
 - [2026-05-16](./2026-05-16.md) - GitHub Copilot桌面App上线、K8s AI代理安全危机、Notion变身代理中心、Zerion开源加密钱包CLI
 - [2026-05-15](./2026-05-15.md) - Google I/O倒计时、Android XR眼镜确认、Aluminium OS泄露、AI代理加密支付、韩国AI公民分红
