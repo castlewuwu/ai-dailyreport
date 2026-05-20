@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-20](./2026-05-20.md) - Google I/O 2026重磅：Gemini Omni世界模型、Gemini Spark个人代理、Anthropic登Disruptor 50榜首、Gemma开源家族更新
 - [2026-05-19](./2026-05-19.md) - Musk vs OpenAI官司尘埃落定Altman胜诉、教皇Leo XIV发布AI通谕《Magnifica Humanitas》、SubQ次二次方LLM商业化、GPT-5.5 Instant成ChatGPT默认
 - [2026-05-18](./2026-05-18.md) - GPT-5.5 API开放、ChatGPT理财功能上线、Stanford AI Index揭示AI能耗危机、Google I/O明日开幕
 - [2026-05-17](./2026-05-17.md) - Google I/O倒计时48小时、Anthropic估值冲刺$900B、Nectar Social融资$30M、长期陪伴代理安全隐患
