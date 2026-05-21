@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-21](./2026-05-21.md) - OpenAI投资新加坡3亿新元建首个海外AI实验室、Anthropic收购Stainless、OpenAI采用SynthID水印、Apple Intelligence辅助功能、Mistral收购Emmi AI
 - [2026-05-20](./2026-05-20.md) - Google I/O 2026重磅：Gemini Omni世界模型、Gemini Spark个人代理、Anthropic登Disruptor 50榜首、Gemma开源家族更新
 - [2026-05-19](./2026-05-19.md) - Musk vs OpenAI官司尘埃落定Altman胜诉、教皇Leo XIV发布AI通谕《Magnifica Humanitas》、SubQ次二次方LLM商业化、GPT-5.5 Instant成ChatGPT默认
 - [2026-05-18](./2026-05-18.md) - GPT-5.5 API开放、ChatGPT理财功能上线、Stanford AI Index揭示AI能耗危机、Google I/O明日开幕
