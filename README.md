@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-25](./2026-05-25.md) - 教皇Leo XIV发布AI通谕《Magnifica Humanitas》、Gemini 3.5 Flash正式GA、Adobe/Canva/CapCut加入Gemini、TeamPCP GitHub攻击受害者名单公布
 - [2026-05-24](./2026-05-24.md) - xAI开放Grok Build给普通用户、Qwen3.7 Max全面上线、OpenAI Codex手机版、Thinking Machines多模态交互模型、Meta Avocado六月确认
 - [2026-05-23](./2026-05-23.md) - Anthropic Project Glasswing发现10,000+漏洞、Anna's Archive给LLM写信、DeepSeek V4 Pro折扣永久化、Microsoft取消Claude Code许可证、Antigravity 2.0建筑建模夺冠
 - [2026-05-22](./2026-05-22.md) - OpenAI模型证明离散几何核心猜想、Google AI搜索投放广告、GitHub恶意扩展入侵3800仓库、Waymo无人车驶入洪水、AI文字墙毁掉对话
