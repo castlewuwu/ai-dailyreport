@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-26](./2026-05-26.md) - OpenAI模型证明Erdős几何猜想、2026年5月AI模型发布总结、DeepSeek永久降价、Grok Build CLI发布、Anthropic计费拆分
 - [2026-05-25](./2026-05-25.md) - 教皇Leo XIV发布AI通谕《Magnifica Humanitas》、Gemini 3.5 Flash正式GA、Adobe/Canva/CapCut加入Gemini、TeamPCP GitHub攻击受害者名单公布
 - [2026-05-24](./2026-05-24.md) - xAI开放Grok Build给普通用户、Qwen3.7 Max全面上线、OpenAI Codex手机版、Thinking Machines多模态交互模型、Meta Avocado六月确认
 - [2026-05-23](./2026-05-23.md) - Anthropic Project Glasswing发现10,000+漏洞、Anna's Archive给LLM写信、DeepSeek V4 Pro折扣永久化、Microsoft取消Claude Code许可证、Antigravity 2.0建筑建模夺冠
