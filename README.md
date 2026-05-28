@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-05-28](./2026-05-28.md) - ByteDance狂砸$70B建AI基础设施、OpenAI递交IPO S-1冲刺万亿估值、Anthropic联手盖茨基金会$200M、开源项目集体爆发、Snowflake签下$6B芯片大单
 - [2026-05-27](./2026-05-27.md) - 中国限制AI研究员出国、BingX推出OpenAI/Anthropic Pre-IPO期货、Gemini 3.5 Flash正式GA、DuckDuckGo安装量激增30%、OpenRouter估值$13亿
 - [2026-05-26](./2026-05-26.md) - OpenAI模型证明Erdős几何猜想、2026年5月AI模型发布总结、DeepSeek永久降价、Grok Build CLI发布、Anthropic计费拆分
 - [2026-05-25](./2026-05-25.md) - 教皇Leo XIV发布AI通谕《Magnifica Humanitas》、Gemini 3.5 Flash正式GA、Adobe/Canva/CapCut加入Gemini、TeamPCP GitHub攻击受害者名单公布
