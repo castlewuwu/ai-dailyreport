@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-02](./2026-06-02.md) - 英伟达GTC台北2026智能体时代爆发、Claude Code终端原生代理、Meta订阅服务上线、OpenAI新加坡3亿投资、RTX Spark重新定义PC
 - [2026-06-01](./2026-06-01.md) - Codex Pro涨价生效、Anthropic $900亿估值超越OpenAI、Microsoft Build明日开幕、Codex登陆Windows、Illinois AI安全法、DuckDuckGo用户激增
 - [2026-05-31](./2026-05-31.md) - Claude Opus 4.8发布3x降价、OpenAI Rosalind生物防御、Codex Pro优惠截止、Microsoft Build预告Windows Agent平台、Mistral Vibe工业AI数据中心、Anthropic估值$900亿
 - [2026-05-30](./2026-05-30.md) - OpenAI实时翻译模型、阶跃星辰Step 3.7 Flash开源、Codex支持Windows与自我管理、Gemini Omni草图动画、Guardrails安全治理、国产模型聚焦效率落地
