@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-03](./2026-06-03.md) - Trump签署AI行政命令、Anthropic递交IPO冲刺万亿估值、开源项目集体爆发、Palo Alto上调业绩、Megaport融资$5.93亿建AI推理云
 - [2026-06-02](./2026-06-02.md) - 英伟达GTC台北2026智能体时代爆发、Claude Code终端原生代理、Meta订阅服务上线、OpenAI新加坡3亿投资、RTX Spark重新定义PC
 - [2026-06-01](./2026-06-01.md) - Codex Pro涨价生效、Anthropic $900亿估值超越OpenAI、Microsoft Build明日开幕、Codex登陆Windows、Illinois AI安全法、DuckDuckGo用户激增
 - [2026-05-31](./2026-05-31.md) - Claude Opus 4.8发布3x降价、OpenAI Rosalind生物防御、Codex Pro优惠截止、Microsoft Build预告Windows Agent平台、Mistral Vibe工业AI数据中心、Anthropic估值$900亿
