@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-05](./2026-06-05.md) - OpenAI Codex白领革命500万用户、GPT-Rosalind加速药物发现、Google I/O智能眼镜亮相、Gemini Deep Research预览
 - [2026-06-04](./2026-06-04.md) - SpaceX估值$1.77万亿冲刺IPO、ChatGPT破10亿月活史上最快、Nvidia RTX Spark点燃PC革命、Anthropic扩张Mythos网络安全版图
 - [2026-06-03](./2026-06-03.md) - Trump签署AI行政命令、Anthropic递交IPO冲刺万亿估值、开源项目集体爆发、Palo Alto上调业绩、Megaport融资$5.93亿建AI推理云
 - [2026-06-02](./2026-06-02.md) - 英伟达GTC台北2026智能体时代爆发、Claude Code终端原生代理、Meta订阅服务上线、OpenAI新加坡3亿投资、RTX Spark重新定义PC
