@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-07](./2026-06-07.md) - Emergence World实验震撼揭示AI社会本性、机器人流量首超人类流量、DeepSeek V4用500倍成本优势刷新数学证明记录、比亚迪机器人项目代号"尧舜禹"、RSI递归式自我改进成为AI新焦点
 - [2026-06-06](./2026-06-06.md) - Anthropic估值$965B超越OpenAI、NSA部署Mythos网络安全模型、Florida首诉OpenAI、美国政府拟持OpenAI股权、SpaceX警告AI水资源危机
 - [2026-06-05](./2026-06-05.md) - OpenAI Codex白领革命500万用户、GPT-Rosalind加速药物发现、Google I/O智能眼镜亮相、Gemini Deep Research预览
 - [2026-06-04](./2026-06-04.md) - SpaceX估值$1.77万亿冲刺IPO、ChatGPT破10亿月活史上最快、Nvidia RTX Spark点燃PC革命、Anthropic扩张Mythos网络安全版图
