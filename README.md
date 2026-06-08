@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [2026-06-08](./daily_report_file/2026-06-08.md) - Anthropic递交IPO申请冲刺万亿估值、Google DeepMind突破蛋白质预测新纪录、微软Azure AI服务重大升级、国产AI芯片训练落地元年、字节跳动加码AI基础设施投资
+- [2026-06-08](./daily_report_file/2026-06-08.md) - Anthropic发布RSI递归改进技术、AI市场回调亚洲科技股领跌、NAVER扩张AI基础设施、中美AI网络安全竞争加剧、银行AI裁员预警
 - [2026-06-07](./daily_report_file/2026-06-07.md) - Emergence World实验震撼揭示AI社会本性、机器人流量首超人类流量、DeepSeek V4用500倍成本优势刷新数学证明记录、比亚迪机器人项目代号"尧舜禹"、RSI递归式自我改进成为AI新焦点
 - [2026-06-06](./daily_report_file/2026-06-06.md) - Anthropic估值$965B超越OpenAI、NSA部署Mythos网络安全模型、Florida首诉OpenAI、美国政府拟持OpenAI股权、SpaceX警告AI水资源危机
 - [2026-06-05](./daily_report_file/2026-06-05.md) - OpenAI Codex白领革命500万用户、GPT-Rosalind加速药物发现、Google I/O智能眼镜亮相、Gemini Deep Research预览
