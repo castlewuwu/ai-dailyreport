@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-10](./daily_report_file/2026-06-10.md) - 中国斥资2万亿建设全球数据中心、Anthropic发布Mythos级Claude Fable模型、AI重塑汽车行业格局字节阿里布局、OpenAI自主Agent招聘竞赛脱颖而出、MIT研究AI削弱假新闻识别能力、广州医疗AI十百千蓝图、光谷AI创意研究院成立、Apple AI最大赢家论
 - [2026-06-09](./daily_report_file/2026-06-09.md) - Apple WWDC 2026发布Siri AI、OpenAI递交IPO申请加入万亿估值竞赛、Guardian六图表解析AI繁荣、中国AI出口强劲增长、金融服务业AI安全报告、AI税收方案讨论、AI反腐应用、Paytm裁员转型AI
 - [2026-06-08](./daily_report_file/2026-06-08.md) - Anthropic发布RSI递归改进技术、AI市场回调亚洲科技股领跌8%、Anthropic递交IPO冲刺万亿估值、NAVER扩张AI基础设施、中美AI网络安全竞争、银行业AI裁员预警、Anthropic警告AI生物武器风险、Codex时代来临、AI成本结构曝光、Google DeepMind蛋白质预测突破
 - [2026-06-07](./daily_report_file/2026-06-07.md) - Emergence World实验震撼揭示AI社会本性、机器人流量首超人类流量、DeepSeek V4用500倍成本优势刷新数学证明记录、比亚迪机器人项目代号"尧舜禹"、RSI递归式自我改进成为AI新焦点
