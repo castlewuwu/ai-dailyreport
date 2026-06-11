@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-11](./daily_report_file/2026-06-11.md) - Anthropic发布Claude Fable 5秘密sabotage政策引争议、中国AI调用量连续6周全球第一达美国4.4倍、OpenAI申请保密IPO、OpenAI向中国泼脏水指控数据中心抗议、Sam Altman下周访问三星推进Stargate合作、Claude图像理解追上GPT-5.5、世界经济论坛2026技术先锋聚焦AI Agent基础设施、国家数据局高质量数据集建设方案、2026大模型应用大会聚焦医疗智能体、广东省AI赋能科研方案、阿里成立Token Foundry事业部、人形机器人医疗康养场景部署、新一代政务AI一体机发布、AI攻防失衡数字安全防线
 - [2026-06-10](./daily_report_file/2026-06-10.md) - 中国斥资2万亿建设全球数据中心、Anthropic发布Mythos级Claude Fable模型、AI重塑汽车行业格局字节阿里布局、OpenAI自主Agent招聘竞赛脱颖而出、MIT研究AI削弱假新闻识别能力、广州医疗AI十百千蓝图、光谷AI创意研究院成立、Apple AI最大赢家论
 - [2026-06-09](./daily_report_file/2026-06-09.md) - Apple WWDC 2026发布Siri AI、OpenAI递交IPO申请加入万亿估值竞赛、Guardian六图表解析AI繁荣、中国AI出口强劲增长、金融服务业AI安全报告、AI税收方案讨论、AI反腐应用、Paytm裁员转型AI
 - [2026-06-08](./daily_report_file/2026-06-08.md) - Anthropic发布RSI递归改进技术、AI市场回调亚洲科技股领跌8%、Anthropic递交IPO冲刺万亿估值、NAVER扩张AI基础设施、中美AI网络安全竞争、银行业AI裁员预警、Anthropic警告AI生物武器风险、Codex时代来临、AI成本结构曝光、Google DeepMind蛋白质预测突破
