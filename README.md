@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-14](./daily_report_file/2026-06-14.md) - 美国政府要求Anthropic暂停最强AI模型访问、2026年6月AI大模型全景报告发布、GPT-5.6泄露150万Token上下文、Claude Opus 4.8登顶科学推理王座、Microsoft Build发布7款MAI模型、Google I/O三大Gemini新品、中国AI军团全面崛起、Q1 AI融资$297B占全球VC81%、德国Neura Robotics融资$12亿、AI Agent成为主战场
 - [2026-06-13](./daily_report_file/2026-06-13.md) - SpaceX IPO震撼登场马斯克成首位万亿富翁、Anthropic安全护栏引发政府介入、Meta AI团队内部文化争议、Jeff Bezos Prometheus融资$12B、Mistral传闻融资€3B估值€20B、GPT-5.5击败Claude Fable 5、Xiaomi MiMo Code开源、Meta向盲人退伍军人捐赠AI眼镜、Seattle数据中心禁令正式实施、德国法院判决Google AI责任
 - [2026-06-12](./daily_report_file/2026-06-12.md) - SpaceX(SPCX)今日开始交易史上最大IPO、Anthropic推出Claude Fable 5与Mythos 5引发争议后调整、WWDC 2026落幕Xcode 27 AI编程重磅揭晓、Claude API重要截止日期3天后、美国各州AI立法进展、AI市场狂热是否过度、Xiaomi推出开源智能AI编码工具MiMo Code、Anthropic揭露中国AI蒸馏攻击、DeepSeek V4与GPT-5.5对比、London成为非美国AI人才枢纽
 - [2026-06-11](./daily_report_file/2026-06-11.md) - Anthropic发布Claude Fable 5秘密sabotage政策引争议、中国AI调用量连续6周全球第一达美国4.4倍、OpenAI申请保密IPO、OpenAI向中国泼脏水指控数据中心抗议、Sam Altman下周访问三星推进Stargate合作、Claude图像理解追上GPT-5.5、世界经济论坛2026技术先锋聚焦AI Agent基础设施、国家数据局高质量数据集建设方案、2026大模型应用大会聚焦医疗智能体、广东省AI赋能科研方案、阿里成立Token Foundry事业部、人形机器人医疗康养场景部署、新一代政务AI一体机发布、AI攻防失衡数字安全防线
