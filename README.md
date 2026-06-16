@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [2026-06-15](./daily_report_file/2026-06-15.md) - Claude Fable 5四日惊魂最强模型被美国政府强制下线、巴西市政IT公司开源模型Rio 3.5杀进全球第一梯队、智谱推出GLM-5.2旗舰模型、极佳视界三个月融资35亿投资人押注物理世界OpenAI、施耐德电气与鸿海战略合作建AI数据中心、雷诺ACDC杭州研发办公室启用、秩益科技亿元级融资
+- [2026-06-16](./daily_report_file/2026-06-16.md) - OpenAI和Anthropic遭美国联合调查AI巨头监管风暴升级、人工智能的落地才刚开始4家科创板公司剧透物理AI新进展、AI应用层泡沫被戳破、世航智能海洋机器人完成10亿A轮融资、京东发布A2P2智能体自主支付协议、COMPUTEX 2026迎来全面落地期、IAI传鉴国际创意节开幕、智能体时代AI安全治理研讨会即将举行
 - [2026-06-14](./daily_report_file/2026-06-14.md) - 美国政府要求Anthropic暂停最强AI模型访问、2026年6月AI大模型全景报告发布、GPT-5.6泄露150万Token上下文、Claude Opus 4.8登顶科学推理王座、Microsoft Build发布7款MAI模型、Google I/O三大Gemini新品、中国AI军团全面崛起、Q1 AI融资$297B占全球VC81%、德国Neura Robotics融资$12亿、AI Agent成为主战场
 - [2026-06-13](./daily_report_file/2026-06-13.md) - SpaceX IPO震撼登场马斯克成首位万亿富翁、Anthropic安全护栏引发政府介入、Meta AI团队内部文化争议、Jeff Bezos Prometheus融资$12B、Mistral传闻融资€3B估值€20B、GPT-5.5击败Claude Fable 5、Xiaomi MiMo Code开源、Meta向盲人退伍军人捐赠AI眼镜、Seattle数据中心禁令正式实施、德国法院判决Google AI责任
 - [2026-06-12](./daily_report_file/2026-06-12.md) - SpaceX(SPCX)今日开始交易史上最大IPO、Anthropic推出Claude Fable 5与Mythos 5引发争议后调整、WWDC 2026落幕Xcode 27 AI编程重磅揭晓、Claude API重要截止日期3天后、美国各州AI立法进展、AI市场狂热是否过度、Xiaomi推出开源智能AI编码工具MiMo Code、Anthropic揭露中国AI蒸馏攻击、DeepSeek V4与GPT-5.5对比、London成为非美国AI人才枢纽
