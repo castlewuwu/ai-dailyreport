@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-17](./daily_report_file/2026-06-17.md) - SpaceX以$600亿收购Cursor、Anthropic撤回第三方订阅限制、AI云从Token战转向落地战、具身智能融资超500起、OpenAI财报泄密亏损2600亿、ChatGPT市场份额首次跌破50%、AI支付赛道升温
 - [2026-06-16](./daily_report_file/2026-06-16.md) - OpenAI和Anthropic遭美国联合调查AI巨头监管风暴升级、人工智能的落地才刚开始4家科创板公司剧透物理AI新进展、AI应用层泡沫被戳破、世航智能海洋机器人完成10亿A轮融资、京东发布A2P2智能体自主支付协议、COMPUTEX 2026迎来全面落地期、IAI传鉴国际创意节开幕、智能体时代AI安全治理研讨会即将举行
 - [2026-06-14](./daily_report_file/2026-06-14.md) - 美国政府要求Anthropic暂停最强AI模型访问、2026年6月AI大模型全景报告发布、GPT-5.6泄露150万Token上下文、Claude Opus 4.8登顶科学推理王座、Microsoft Build发布7款MAI模型、Google I/O三大Gemini新品、中国AI军团全面崛起、Q1 AI融资$297B占全球VC81%、德国Neura Robotics融资$12亿、AI Agent成为主战场
 - [2026-06-13](./daily_report_file/2026-06-13.md) - SpaceX IPO震撼登场马斯克成首位万亿富翁、Anthropic安全护栏引发政府介入、Meta AI团队内部文化争议、Jeff Bezos Prometheus融资$12B、Mistral传闻融资€3B估值€20B、GPT-5.5击败Claude Fable 5、Xiaomi MiMo Code开源、Meta向盲人退伍军人捐赠AI眼镜、Seattle数据中心禁令正式实施、德国法院判决Google AI责任
