@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-18](./daily_report_file/2026-06-18.md) - G7峰会AI三巨头闭门会议呼吁建立美国主导AI联盟、AI Odyssey融资$310M估值$1.45B、AI催生生物医学科研危机假文献激增12倍、ChatGPT市场份额首次跌破50%、2026世界人工智能大会即将开幕超300款AI产品全球首发、首届超级智能体大赛在广州启动、AI全面赋能618电商大促、AR眼镜赛道扎堆首发、PwC报告指出AI将全球就业市场一分为二
 - [2026-06-17](./daily_report_file/2026-06-17.md) - SpaceX以$600亿收购Cursor、Anthropic撤回第三方订阅限制、AI云从Token战转向落地战、具身智能融资超500起、OpenAI财报泄密亏损2600亿、ChatGPT市场份额首次跌破50%、AI支付赛道升温
 - [2026-06-16](./daily_report_file/2026-06-16.md) - OpenAI和Anthropic遭美国联合调查AI巨头监管风暴升级、人工智能的落地才刚开始4家科创板公司剧透物理AI新进展、AI应用层泡沫被戳破、世航智能海洋机器人完成10亿A轮融资、京东发布A2P2智能体自主支付协议、COMPUTEX 2026迎来全面落地期、IAI传鉴国际创意节开幕、智能体时代AI安全治理研讨会即将举行
 - [2026-06-14](./daily_report_file/2026-06-14.md) - 美国政府要求Anthropic暂停最强AI模型访问、2026年6月AI大模型全景报告发布、GPT-5.6泄露150万Token上下文、Claude Opus 4.8登顶科学推理王座、Microsoft Build发布7款MAI模型、Google I/O三大Gemini新品、中国AI军团全面崛起、Q1 AI融资$297B占全球VC81%、德国Neura Robotics融资$12亿、AI Agent成为主战场
