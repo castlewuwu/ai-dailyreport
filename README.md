@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-22](./daily_report_file/2026-06-22.md) - DeepSeek完成首轮融资510亿投后估值4000亿、陆家嘴论坛宣布科创板第五套标准扩展至AI企业、Anthropic Claude Fable 5与Mythos 5遭美国出口管制、OpenAI发布GPT-5.5 Instant免费开放、商务部发布AI+消费实施意见、第四届链博会设立AI专区、索尼AI乒乓球机器人击败职业选手、美团General 365评测基准发布Gemini 3 Pro仅62.8分、三星正式部署ChatGPT Gemini与Claude、LG访问英伟达探讨实体AI合作
 - [2026-06-21](./daily_report_file/2026-06-21.md) - AlphaFold之父诺奖得主John Jumper从DeepMind离职加入Anthropic、Generalist AI获4亿融资机器人商业化加速、马斯克预测中国模型追平Claude智谱创始人回应、九成企业AI转型未获回报效率困局、美团技术系列突破WBench开源General 365评测等、开源项目Agent-Native codebase-memory-mcp Headroom发布、存储芯片市场暴增249.5%全球半导体超10万亿
 - [2026-06-20](./daily_report_file/2026-06-20.md) - 高通骁龙8 Elite Gen 6 Pro芯片曝光2nm工艺瞄准2027年旗舰、英特尔携手联电开发12nm与3nm芯片工艺挑战台积电、美商务部对ASML高端光刻机或流入中国表示关切、星海图全球开发者大会展示多类机器人真实工作能力、世航智能海洋机器人完成10亿A轮融资、特斯拉FSD更名辅助驾驶智能驾驶边界更清楚、苹果Siri史诗级更新、Anthropic CEO揭示离开OpenAI原因
 - [2026-06-19](./daily_report_file/2026-06-19.md) - 中国服务外包产业20年增长超200倍AI重塑行业价值逻辑、福建深入实施“人工智能+”行动构建特色现代化产业体系、科创板第五套标准扩围至大模型企业智谱MiniMax“回A”提速、蔚来世界模型全新版本推送70万用户同步升级、ZeeLin-Evolve AI自进化框架开源发布、德国专家警告欧洲AI技术对美依赖存风险、日本考虑AI法律改革应对高级模型风险、人形机器人赛道18家公司竞争、具身AI世界模型吸引60亿美元投资、医院AI“大模型即服务”平台落地探索
