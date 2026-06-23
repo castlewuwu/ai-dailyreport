@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-23](./daily_report_file/2026-06-23.md) - DeepSeek融资74亿美元估值600亿、OpenAI发布GPT-5.5-Cyber网络安全模型、GLM-5.2在bug修复测试中超越Opus 4.8、Google推出Gemini Spark个人AI代理、字节火山引擎发布Seedance 2.5和豆包2.1 Pro、NVIDIA开源ArtiFixer 3D补全模型、第四届链博会首设AI专区、黄仁勋链博会致辞肯定中国科技地位、智谱AI市值暴涨19倍突破1.07万亿港元、马斯克提高AI工程师薪酬应对OpenAI挖角、长木谷发布ROPA6 AI全骨科手术机器人、LangChain Deep Agents新增代码解释器、ElevenLabs推出Ads Engine广告工具
 - [2026-06-22](./daily_report_file/2026-06-22.md) - DeepSeek完成首轮融资510亿投后估值4000亿、陆家嘴论坛宣布科创板第五套标准扩展至AI企业、Anthropic Claude Fable 5与Mythos 5遭美国出口管制、OpenAI发布GPT-5.5 Instant免费开放、商务部发布AI+消费实施意见、第四届链博会设立AI专区、索尼AI乒乓球机器人击败职业选手、美团General 365评测基准发布Gemini 3 Pro仅62.8分、三星正式部署ChatGPT Gemini与Claude、LG访问英伟达探讨实体AI合作
 - [2026-06-21](./daily_report_file/2026-06-21.md) - AlphaFold之父诺奖得主John Jumper从DeepMind离职加入Anthropic、Generalist AI获4亿融资机器人商业化加速、马斯克预测中国模型追平Claude智谱创始人回应、九成企业AI转型未获回报效率困局、美团技术系列突破WBench开源General 365评测等、开源项目Agent-Native codebase-memory-mcp Headroom发布、存储芯片市场暴增249.5%全球半导体超10万亿
 - [2026-06-20](./daily_report_file/2026-06-20.md) - 高通骁龙8 Elite Gen 6 Pro芯片曝光2nm工艺瞄准2027年旗舰、英特尔携手联电开发12nm与3nm芯片工艺挑战台积电、美商务部对ASML高端光刻机或流入中国表示关切、星海图全球开发者大会展示多类机器人真实工作能力、世航智能海洋机器人完成10亿A轮融资、特斯拉FSD更名辅助驾驶智能驾驶边界更清楚、苹果Siri史诗级更新、Anthropic CEO揭示离开OpenAI原因
