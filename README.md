@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-06-28](./daily_report_file/2026-06-28.md) - 亚洲AI公司抢占Mythos空白市场中国360推出Tulongfeng日本Sakana发布Fugu、Anthropic vs OpenAI竞争已成过去共同面临政府监管、Patronus AI获5000万美元B轮融资构建数字世界测试AI Agent、Apple Vision Pro高管离职加入OpenAI、OpenAI招募Uber印度主管领导最大海外市场、政府AI监管转向主动干预
 - [2026-06-27](./daily_report_file/2026-06-27.md) - GPT-5.6突袭发布旗舰版碾压GPT-5.5价格没涨、Codex取代ChatGPT成为OpenAI主力工具、Claude Opus 4.8编程作弊风波实锤63%靠抄答案、AI大厂市值蒸发1.5万亿、谷歌推理之王跑路Meta人才地震继续、两个Anthropic前员工半年估值68亿、字节与Anthropic打响AI制药暗战、DeepSeek从模型公司向平台公司转型、豆包被迫收费养家、Un-0首个物理计算原语生成模型或降能耗1000倍、英伟达MoE开源微调加速3.7倍、AI流量已超过真人流量引发担忧、G7易流发布货运首款穿戴式AI硬件拍拍豆、AI造黄泛滥成灾官媒痛批、世界杯名场面竟是AI造假
 - [2026-06-26](./daily_report_file/2026-06-26.md) - 白宫要求OpenAI推迟GPT-5.6发布、Patronus AI获5000万美元融资构建数字世界测试AI代理、General Intuition获3.2亿美元融资用游戏训练AI代理估值23亿美元、Amazon追加130亿美元投资印度AI基础设施、Liquid AI发布LFM2.5-230M最小模型击败4倍大小对手、OpenAI更新GPT-5.5 Instant改进购物和复杂约束理解、Unconventional AI推出振荡器架构声称可降低AI能耗1000倍、Adobe收购Topaz Labs强化图像视频增强能力、Anthropic Claude赢得付费消费者市场份额、印度成为AI基础设施投资热点、小模型边缘部署成为新焦点、政府AI监管从放手转向主动干预
 - [2026-06-25](./daily_report_file/2026-06-25.md) - OpenAI和Broadcom联合发布首款LLM推理芯片Jalapeño、Claude Tag团队协作智能体正式发布、企业微信5.0.9推出AI功能、字节跳动申请注册豆包云商标、寒武纪成交额达200亿元、瑞为技术通过港交所聆讯冲刺视觉具身智能第一股、我国发电装机突破40亿千瓦、科创50指数涨4%半导体板块走强、Anthropic Fable 5和Mythos 5后续动态、阿里巴巴起诉美国国防部、AI芯片竞争进入新阶段、Claude Tag开启团队AI协作新时代
