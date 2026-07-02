@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-02](./daily_report_file/2026-07-02.md) - 美团开源万亿参数大模型LongCat-2.0国产算力训练、OpenAI披露GPT-5.6三个Pro变体、Anthropic被曝Claude Code植入隐写术识别中国用户、Meta计划出售AI算力进军云计算市场、xAI发布Voice Agent Builder语音智能体构建平台、英伟达开源ASPIRE机器人技能库、自变量估值突破200亿、Etched完成8亿美元融资
 - [2026-07-01](./daily_report_file/2026-07-01.md) - Anthropic发布Claude Sonnet 5更便宜的Agent运行方式、Nvidia竞争对手Etched估值50亿美元已锁定10亿美元订单、Google发布Nano Banana 2 Lite更快更便宜图像生成器、Amazon推出10亿美元FDE组织跟随OpenAI和Anthropic、Anthropic推出Claude Science科学家工作台聚焦工作流而非新模型、推理芯片竞争白热化FDE模式成为企业AI部署标准
 - [2026-06-30](./daily_report_file/2026-06-30.md) - 2026年6月AI开源模型大爆发25+模型一周齐发从LLM到3D全覆盖、OpenAI首款自研芯片Jalapeño联手博通9个月流片推理降本50%、香港成立AI+与产业发展策略委员会财政司司长主持首次会议、澳门数龙杯全球AI创新大赛推动产业链协同发展、国务院常务会议部署AI发展牢牢掌握主动权
 - [2026-06-29](./daily_report_file/2026-06-29.md) - OpenAI发布首款自研推理芯片Jalapeño摆脱Nvidia税垂直整合战略启动、Samsung重新开放员工AI工具访问ChatGPT Enterprise与Codex全面部署、Anthropic推出Claude Tag团队协作AI代理Slack原生集成开启多玩家AI协作模式、SAP推进AI个性化零售架构Advanced Success Plan打通数据决策交付三层、Omio用OpenAI模型扩展旅游产品开发
