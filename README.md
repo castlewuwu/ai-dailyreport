@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-04](./daily_report_file/2026-07-04.md) - 武田制药6亿美元AI药物发现协议、日本国家AI机器人战略2040年部署1000万机器人、阿里巴巴SkillWeaver框架降低99%Token消耗、ZCode挑战AI编程市场、Claude Fable 5恢复全球访问、美团LongCat-2.0开源、DeepSeek DSpark推理加速85%、Google Gemini Omni Flash对话式视频生成、企业AI系统容错策略洞察
 - [2026-07-03](./daily_report_file/2026-07-03.md) - Google DeepMind人才地震六名核心研究员离职诺奖得主John Jumper与Transformer作者Noam Shazeer出走、Alphabet市值蒸发2700亿美元、Gemini 3.5 Pro推迟发布、Meta招聘推理之王Denny Zhou与AI安全专家Dawn Song、Anthropic IPO前扩张战略估值9650亿美元、Google AI编程突击队转向中期训练放弃世界模型研究、Denny Zhou推理遗产三大技术成LLM标准
 - [2026-07-02](./daily_report_file/2026-07-02.md) - 美团开源万亿参数大模型LongCat-2.0国产算力训练、OpenAI披露GPT-5.6三个Pro变体、Anthropic被曝Claude Code植入隐写术识别中国用户、Meta计划出售AI算力进军云计算市场、xAI发布Voice Agent Builder语音智能体构建平台、英伟达开源ASPIRE机器人技能库、自变量估值突破200亿、Etched完成8亿美元融资
 - [2026-07-01](./daily_report_file/2026-07-01.md) - Anthropic发布Claude Sonnet 5更便宜的Agent运行方式、Nvidia竞争对手Etched估值50亿美元已锁定10亿美元订单、Google发布Nano Banana 2 Lite更快更便宜图像生成器、Amazon推出10亿美元FDE组织跟随OpenAI和Anthropic、Anthropic推出Claude Science科学家工作台聚焦工作流而非新模型、推理芯片竞争白热化FDE模式成为企业AI部署标准
