@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-08](./daily_report_file/2026-07-08.md) - 我国人工智能产业加速发展壮大、特朗普政府暂停OpenAI最新AI模型、Claude和ChatGPT成本太高连微软也承受不起、2026世界人工智能大会即将开幕、现代汽车在FIFA世界杯展示人形机器人、大语言模型与临床医生精神病理学评估基准测试
 - [2026-07-07](./daily_report_file/2026-07-07.md) - 芯片短缺冲击消费电子产业苹果微软全线涨价、Anthropic与Samsung协商2nm定制AI芯片、联合国AI治理政府间对话闭幕、Mistral确认夏季发布新开源旗舰模型ARR突破$400M、Meta华盛顿州裁员1395人、中国AI模型追赶美国巨头
 - [2026-07-06](./daily_report_file/2026-07-06.md) - ICML 2026首尔开幕聚焦Agentic AI、Meta承认1450亿美元AI Agent项目进度落后、中国首个AI-eSIM产业协同平台成立、AI Agent从演示走向生产应用、阿根廷推动AI运营公司合法化、AI自主攻击威胁升级
 - [2026-07-05](./daily_report_file/2026-07-05.md) - Anthropic联手三星自研AI芯片、Claude Fable 5恢复访问后用户反馈降智、全球首例AI Agent自主勒索攻击曝光、字节Seedance 2.5即将开放体验、阿里巴巴全面禁用Claude产品、DeepSeek V4登陆腾讯云、AI28GPU小时发现4种超导体、快手可灵独立融资30亿美元估值180亿美元、Etched累计融资8亿美元估值50亿、Google DeepMind与A24首次研究合作
