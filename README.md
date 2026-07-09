@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-09](./daily_report_file/2026-07-09.md) - OpenAI公开发布GPT-5.6系列模型、中国允许购买Nvidia H200芯片、国产AI性价比优势DeepSeek出海、数据中心供电革命800V直流架构、Meta投资130亿加元建加拿大AI数据中心、AI Agent技术成为企业应用焦点
 - [2026-07-08](./daily_report_file/2026-07-08.md) - 我国人工智能产业加速发展壮大、特朗普政府暂停OpenAI最新AI模型、Claude和ChatGPT成本太高连微软也承受不起、2026世界人工智能大会即将开幕、现代汽车在FIFA世界杯展示人形机器人、大语言模型与临床医生精神病理学评估基准测试
 - [2026-07-07](./daily_report_file/2026-07-07.md) - 芯片短缺冲击消费电子产业苹果微软全线涨价、Anthropic与Samsung协商2nm定制AI芯片、联合国AI治理政府间对话闭幕、Mistral确认夏季发布新开源旗舰模型ARR突破$400M、Meta华盛顿州裁员1395人、中国AI模型追赶美国巨头
 - [2026-07-06](./daily_report_file/2026-07-06.md) - ICML 2026首尔开幕聚焦Agentic AI、Meta承认1450亿美元AI Agent项目进度落后、中国首个AI-eSIM产业协同平台成立、AI Agent从演示走向生产应用、阿根廷推动AI运营公司合法化、AI自主攻击威胁升级
