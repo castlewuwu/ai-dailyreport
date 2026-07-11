@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-11](./daily_report_file/2026-07-11.md) - 苹果起诉OpenAI窃取商业秘密、MiniMax完成160亿港元融资、GPT-5.6明日发布传闻迎战Fable 5、ICML 2026首尔开幕中国大厂抢人才、ICML时间检验奖揭示学术创新真相、Karpathy构想落地Claude Code加Obsidian创建第二大脑、灵睿智芯完成数亿元融资、至简动力交付百台机器人、大晓全开源ACE-Brain-0.5具身基模型
 - [2026-07-10](./daily_report_file/2026-07-10.md) - OpenAI打响模型闪电战GPT-5.6三剑客解禁发布、GPT-6提前至本月发布废弃旧架构、美团LongCat-2.0开源WBench等多项重磅项目、Meta Muse Spark 1.1进军AI编程市场、xAI Grok-4.5跻身顶级基准排名、智算中心转向Token工厂模式、Bun项目AI重构百万行代码
 - [2026-07-09](./daily_report_file/2026-07-09.md) - OpenAI公开发布GPT-5.6系列模型、中国允许购买Nvidia H200芯片、国产AI性价比优势DeepSeek出海、数据中心供电革命800V直流架构、Meta投资130亿加元建加拿大AI数据中心、AI Agent技术成为企业应用焦点
 - [2026-07-08](./daily_report_file/2026-07-08.md) - 我国人工智能产业加速发展壮大、特朗普政府暂停OpenAI最新AI模型、Claude和ChatGPT成本太高连微软也承受不起、2026世界人工智能大会即将开幕、现代汽车在FIFA世界杯展示人形机器人、大语言模型与临床医生精神病理学评估基准测试
