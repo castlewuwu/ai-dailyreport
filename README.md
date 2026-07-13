@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-13](./daily_report_file/2026-07-13.md) - GPT-5.6全面开放AI自我进化时代开启、苹果起诉OpenAI窃取商业机密、Kimi K3即将发布2.5万亿参数刷新国产天花板、蚂蚁灵波发布世界动作模型LingBot-VA 2.0、宇树G1机器人完成活体手术、DeepSeek自研AI芯片曝光、推理芯片市场白热化
 - [2026-07-12](./daily_report_file/2026-07-12.md) - GPT-5.6全面开放AI自我进化时代开启、苹果起诉OpenAI窃取商业机密、智谱启动摸高计划、DeepSeek自研AI芯片曝光、蚂蚁灵波发布世界动作模型LingBot-VA 2.0、宇树G1机器人完成活体手术、推理芯片市场白热化、Kimi K3即将发布2.5万亿参数刷新国产天花板
 - [2026-07-11](./daily_report_file/2026-07-11.md) - 苹果起诉OpenAI窃取商业秘密、MiniMax完成160亿港元融资、GPT-5.6明日发布传闻迎战Fable 5、ICML 2026首尔开幕中国大厂抢人才、ICML时间检验奖揭示学术创新真相、Karpathy构想落地Claude Code加Obsidian创建第二大脑、灵睿智芯完成数亿元融资、至简动力交付百台机器人、大晓全开源ACE-Brain-0.5具身基模型
 - [2026-07-10](./daily_report_file/2026-07-10.md) - OpenAI打响模型闪电战GPT-5.6三剑客解禁发布、GPT-6提前至本月发布废弃旧架构、美团LongCat-2.0开源WBench等多项重磅项目、Meta Muse Spark 1.1进军AI编程市场、xAI Grok-4.5跻身顶级基准排名、智算中心转向Token工厂模式、Bun项目AI重构百万行代码
