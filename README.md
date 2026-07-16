@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-16](./daily_report_file/2026-07-16.md) - OpenAI发布首款硬件Codex Micro、印度Emergent成独角兽、Thinking Machines发布开放权重模型Inkling、阿里Qoder市场份额47.6%、苹果AI获批进入中国
 - [2026-07-15](./daily_report_file/2026-07-15.md) - OpenAI正式推出GPT-5.6系列、爱诗科技完成29.8亿元C轮融资、阶跃星辰推出首款AI智能体手机STEPX Neo、阿里通义开源舞蹈视频生成模型Wan-Dancer、Google DeepMind人才流失严重
 - [2026-07-14](./daily_report_file/2026-07-14.md) - GPT-5.6被指解决50年未解数学问题、习近平将首次在世界人工智能大会发表主旨演讲、苹果发布iOS 27公测版AI原生Siri登场、小米发布MiMo-V2.5-DFlash超300B参数模型、可灵AI估值或超千亿视频生成三强格局形成、中国人形机器人公司争相IPO、PixVerse完成4.39亿美元融资、美财政部分析师警告AI为系统性风险
 - [2026-07-13](./daily_report_file/2026-07-13.md) - GPT-5.6全面开放AI自我进化时代开启、苹果起诉OpenAI窃取商业机密、Kimi K3即将发布2.5万亿参数刷新国产天花板、蚂蚁灵波发布世界动作模型LingBot-VA 2.0、宇树G1机器人完成活体手术、DeepSeek自研AI芯片曝光、推理芯片市场白热化
