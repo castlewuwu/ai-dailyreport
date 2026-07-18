@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-18](./daily_report_file/2026-07-18.md) - Moonshot发布Kimi K3史上最大开源模型、Netflix 5.87亿美元收购Ben Affleck AI公司、Meta拟向Anthropic出租100亿美元算力、Apple向40名跳槽OpenAI员工发法律警告、Google Gemini 3.5 Pro延迟发布
 - [2026-07-17](./daily_report_file/2026-07-17.md) - Apple Intelligence获批在中国推出联手阿里Qwen与百度、Moonshot即将发布Kimi K3参数量达2-3万亿、Roblox推出AI游戏创建功能Build、Elorian AI获3亿美元Pre-seed估值
 - [2026-07-16](./daily_report_file/2026-07-16.md) - OpenAI发布首款硬件Codex Micro、印度Emergent成独角兽、Thinking Machines发布开放权重模型Inkling、阿里Qoder市场份额47.6%、苹果AI获批进入中国
 - [2026-07-15](./daily_report_file/2026-07-15.md) - OpenAI正式推出GPT-5.6系列、爱诗科技完成29.8亿元C轮融资、阶跃星辰推出首款AI智能体手机STEPX Neo、阿里通义开源舞蹈视频生成模型Wan-Dancer、Google DeepMind人才流失严重
