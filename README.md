@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-20](./daily_report_file/2026-07-20.md) - 阿里推出Qwen3.8-Max预览版、Anthropic冲刺IPO估值$965B超越OpenAI、DeepSeek启动IPO估值4800亿元、字节推出Seed Audio 1.0、趣丸发布Tempolor v4.7
 - [2026-07-19](./daily_report_file/2026-07-19.md) - 医疗AI领域融资潮：Bunkerhill获5500万美元、Neko Health斩获7亿美元、Google DeepMind发布生物安全AI计划、Nokia推出AI-RAN平台
 - [2026-07-18](./daily_report_file/2026-07-18.md) - Moonshot发布Kimi K3史上最大开源模型、Netflix 5.87亿美元收购Ben Affleck AI公司、Meta拟向Anthropic出租100亿美元算力、Apple向40名跳槽OpenAI员工发法律警告、Google Gemini 3.5 Pro延迟发布
 - [2026-07-17](./daily_report_file/2026-07-17.md) - Apple Intelligence获批在中国推出联手阿里Qwen与百度、Moonshot即将发布Kimi K3参数量达2-3万亿、Roblox推出AI游戏创建功能Build、Elorian AI获3亿美元Pre-seed估值
