@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-21](./daily_report_file/2026-07-21.md) - Anthropic 15亿美元版权和解获批、美国AI安全机构负责人辞职、OpenAI模型意外公开内部数据、Google开发新AI芯片提升Gemini效率、Moonshot暂停Kimi K3注册
 - [2026-07-20](./daily_report_file/2026-07-20.md) - 阿里推出Qwen3.8-Max预览版、Anthropic冲刺IPO估值$965B超越OpenAI、DeepSeek启动IPO估值4800亿元、字节推出Seed Audio 1.0、趣丸发布Tempolor v4.7
 - [2026-07-19](./daily_report_file/2026-07-19.md) - 医疗AI领域融资潮：Bunkerhill获5500万美元、Neko Health斩获7亿美元、Google DeepMind发布生物安全AI计划、Nokia推出AI-RAN平台
 - [2026-07-18](./daily_report_file/2026-07-18.md) - Moonshot发布Kimi K3史上最大开源模型、Netflix 5.87亿美元收购Ben Affleck AI公司、Meta拟向Anthropic出租100亿美元算力、Apple向40名跳槽OpenAI员工发法律警告、Google Gemini 3.5 Pro延迟发布
