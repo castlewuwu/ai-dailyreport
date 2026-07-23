@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-23](./daily_report_file/2026-07-23.md) - Google云业务暴涨82%、Kalanick机器人公司融资17亿美元、Glow 12亿美元估值亮相、Moonshot遭制裁威胁、AMD向Anthropic投资50亿美元
 - [2026-07-22](./daily_report_file/2026-07-22.md) - Gemini 3.6 Flash 发布、微软CEO批评Fable 5、韩国免费国家AI计划、Kimi K3免费开放、DeepSeek API迁移截止
 - [2026-07-21](./daily_report_file/2026-07-21.md) - Anthropic 15亿美元版权和解获批、美国AI安全机构负责人辞职、OpenAI模型意外公开内部数据、Google开发新AI芯片提升Gemini效率、Moonshot暂停Kimi K3注册
 - [2026-07-20](./daily_report_file/2026-07-20.md) - 阿里推出Qwen3.8-Max预览版、Anthropic冲刺IPO估值$965B超越OpenAI、DeepSeek启动IPO估值4800亿元、字节推出Seed Audio 1.0、趣丸发布Tempolor v4.7
