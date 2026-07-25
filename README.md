@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-25](./daily_report_file/2026-07-25.md) - Anthropic发布Opus 5效率革命成本减半、OpenAI首款硬件Micro键盘发布、Prentis新AI实验室筹资1亿美元、Cognition收购Poke AI个性成竞争优势、Bluesky Attie开放社交研究工具
 - [2026-07-24](./daily_report_file/2026-07-24.md) - Microsoft自研AI模型成本降89%、OpenAI全双工语音编程、FLUX 3多模态统一生成、Etched估值103亿美元、AegisAI反钓鱼融资
 - [2026-07-23](./daily_report_file/2026-07-23.md) - Google云业务暴涨82%、Kalanick机器人公司融资17亿美元、Glow 12亿美元估值亮相、Moonshot遭制裁威胁、AMD向Anthropic投资50亿美元
 - [2026-07-22](./daily_report_file/2026-07-22.md) - Gemini 3.6 Flash 发布、微软CEO批评Fable 5、韩国免费国家AI计划、Kimi K3免费开放、DeepSeek API迁移截止
