@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-26](./daily_report_file/2026-07-26.md) - 科技巨头联手支持开放权重AI、AI裁员潮蔓延Monday.com等20家公司以AI为由、图书馆避免AI工作坊爆火公众反AI情绪、AMD向Anthropic投资50亿美元、Nvidia押注物理AI解决医疗机器人数据难题
 - [2026-07-25](./daily_report_file/2026-07-25.md) - Anthropic发布Opus 5效率革命成本减半、OpenAI首款硬件Micro键盘发布、Prentis新AI实验室筹资1亿美元、Cognition收购Poke AI个性成竞争优势、Bluesky Attie开放社交研究工具
 - [2026-07-24](./daily_report_file/2026-07-24.md) - Microsoft自研AI模型成本降89%、OpenAI全双工语音编程、FLUX 3多模态统一生成、Etched估值103亿美元、AegisAI反钓鱼融资
 - [2026-07-23](./daily_report_file/2026-07-23.md) - Google云业务暴涨82%、Kalanick机器人公司融资17亿美元、Glow 12亿美元估值亮相、Moonshot遭制裁威胁、AMD向Anthropic投资50亿美元
