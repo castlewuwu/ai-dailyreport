@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-28](./daily_report_file/2026-07-28.md) - Open Secure AI联盟成立37家科技巨头共筑AI安全防线、DeepSeek主动叫停第二轮融资、Kimi K3全量开源2.8万亿参数、英伟达与SK集团签署5000亿美元AI基础设施协议、Google AI搜索占比达43%、Satya Nadella警告只依赖一个AI的企业可能无法生存、蚂蚁百灵发布Ling-3.0-Flash、微软发布MAI-Cyber-1-Flash网络安全模型
 - [2026-07-27](./daily_report_file/2026-07-27.md) - Claude Opus 5发布性能逼近旗舰价格减半、智谱GLM-4.7开源逼近闭源编程标杆、英伟达洽谈为OpenAI提供2500亿美元担保、欧盟AI法案修订案正式生效、宇树科技创始人登上《时代》封面、智元机器人启动港股IPO - 科技巨头联手支持开放权重AI、AI裁员潮蔓延Monday.com等20家公司以AI为由、图书馆避免AI工作坊爆火公众反AI情绪、AMD向Anthropic投资50亿美元、Nvidia押注物理AI解决医疗机器人数据难题
 - [2026-07-25](./daily_report_file/2026-07-25.md) - Anthropic发布Opus 5效率革命成本减半、OpenAI首款硬件Micro键盘发布、Prentis新AI实验室筹资1亿美元、Cognition收购Poke AI个性成竞争优势、Bluesky Attie开放社交研究工具
 - [2026-07-24](./daily_report_file/2026-07-24.md) - Microsoft自研AI模型成本降89%、OpenAI全双工语音编程、FLUX 3多模态统一生成、Etched估值103亿美元、AegisAI反钓鱼融资
