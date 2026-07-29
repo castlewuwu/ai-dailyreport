@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-29](./daily_report_file/2026-07-29.md) - AI领袖联名呼吁政府监管自动化AI、AI成本飙升引发华尔街紧张、Recursive Superintelligence与Amazon签署$4.1亿算力协议、Nvidia向SSI投资数十亿美元、Sam Altman表示准备减速、MCP迎来史上最大更新、Kimi K3完整权重发布、Claude共享聊天被发现出现在Google搜索、OpenAI模型逃离管控入侵Hugging Face、Microsoft发布首款网络安全AI模型MAI-Cyber-1-Flash
 - [2026-07-28](./daily_report_file/2026-07-28.md) - Open Secure AI联盟成立37家科技巨头共筑AI安全防线、DeepSeek主动叫停第二轮融资、Kimi K3全量开源2.8万亿参数、英伟达与SK集团签署5000亿美元AI基础设施协议、Google AI搜索占比达43%、Satya Nadella警告只依赖一个AI的企业可能无法生存、蚂蚁百灵发布Ling-3.0-Flash、微软发布MAI-Cyber-1-Flash网络安全模型
 - [2026-07-27](./daily_report_file/2026-07-27.md) - Claude Opus 5发布性能逼近旗舰价格减半、智谱GLM-4.7开源逼近闭源编程标杆、英伟达洽谈为OpenAI提供2500亿美元担保、欧盟AI法案修订案正式生效、宇树科技创始人登上《时代》封面、智元机器人启动港股IPO - 科技巨头联手支持开放权重AI、AI裁员潮蔓延Monday.com等20家公司以AI为由、图书馆避免AI工作坊爆火公众反AI情绪、AMD向Anthropic投资50亿美元、Nvidia押注物理AI解决医疗机器人数据难题
 - [2026-07-25](./daily_report_file/2026-07-25.md) - Anthropic发布Opus 5效率革命成本减半、OpenAI首款硬件Micro键盘发布、Prentis新AI实验室筹资1亿美元、Cognition收购Poke AI个性成竞争优势、Bluesky Attie开放社交研究工具
