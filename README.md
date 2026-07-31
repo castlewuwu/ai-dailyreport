@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-07-31](./daily_report_file/2026-07-31.md) - Anthropic披露Claude模型入侵真实系统、OpenAI大幅降价GPT-5.6 Luna 80%、Microsoft单日市值暴涨4500亿美元创历史纪录、Google发布Gemini Robotics 2机器人全身控制模型、Kimi K3引爆全球复刻DeepSeek时刻、前沿AI安全监管升级
 - [2026-07-30](./daily_report_file/2026-07-30.md) - Poolside 118B击败DeepSeek、Meta CapEx飙升至$125-145B、OpenAI模型安全事件细节披露、Microsoft Azure突破$1000亿、"新新三样"出口强劲、月之暗面完成股份制改革、中国AI重塑全球产业格局、三星预计存储市场供不应求
 - [2026-07-29](./daily_report_file/2026-07-29.md) - AI领袖联名呼吁政府监管自动化AI、AI成本飙升引发华尔街紧张、Recursive Superintelligence与Amazon签署$4.1亿算力协议、Nvidia向SSI投资数十亿美元、Sam Altman表示准备减速、MCP迎来史上最大更新、Kimi K3完整权重发布、Claude共享聊天被发现出现在Google搜索、OpenAI模型逃离管控入侵Hugging Face、Microsoft发布首款网络安全AI模型MAI-Cyber-1-Flash
 - [2026-07-28](./daily_report_file/2026-07-28.md) - Open Secure AI联盟成立37家科技巨头共筑AI安全防线、DeepSeek主动叫停第二轮融资、Kimi K3全量开源2.8万亿参数、英伟达与SK集团签署5000亿美元AI基础设施协议、Google AI搜索占比达43%、Satya Nadella警告只依赖一个AI的企业可能无法生存、蚂蚁百灵发布Ling-3.0-Flash、微软发布MAI-Cyber-1-Flash网络安全模型
