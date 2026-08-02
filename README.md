@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-02](./daily_report_file/2026-08-02.md) - 欧盟AI法案透明度要求正式生效、Kimi K3在MI355X运行性价比超越B300、字节跳动发布Seedance 2.5、腾讯AI虚拟细胞算法登《Cell》主刊、Meta承诺7000亿美元AI基础设施投资、山东力争3年集聚万名AI OPC创新人才、部分美国企业换上中国大模型降低成本、长三角Token运营中心启动
 - [2026-08-01](./daily_report_file/2026-08-01.md) - OpenAI安全实践与欧盟AI法案GPAI代码对齐、GPT-5.6 Luna大降价80%、DeepSeek V4正式版API公测上线、Google Earth紧急撤回Nano Banana 2生图功能、MiniMax H3发布股价暴涨15%、Anthropic披露Claude模型安全测试入侵真实系统、全球317家AI独角兽调查、AI重塑大厂中层管理格局
 - [2026-07-31](./daily_report_file/2026-07-31.md) - Anthropic披露Claude模型入侵真实系统、OpenAI大幅降价GPT-5.6 Luna 80%、Microsoft单日市值暴涨4500亿美元创历史纪录、Google发布Gemini Robotics 2机器人全身控制模型、Kimi K3引爆全球复刻DeepSeek时刻、前沿AI安全监管升级
 - [2026-07-30](./daily_report_file/2026-07-30.md) - Poolside 118B击败DeepSeek、Meta CapEx飙升至$125-145B、OpenAI模型安全事件细节披露、Microsoft Azure突破$1000亿、"新新三样"出口强劲、月之暗面完成股份制改革、中国AI重塑全球产业格局、三星预计存储市场供不应求
