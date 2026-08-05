@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-05](./daily_report_file/2026-08-05.md) - DeepSeek发布低成本AI模型V4-Flash挑战竞争对手、三星发布下一代AI内存技术BV-NAND超过400层、加州AI生成内容透明度规则正式生效、OpenAI与Anthropic科学家联合呼吁美国政府监管AI发展、Google DeepMind人才流失加剧核心研究员投奔OpenAI和Anthropic、Meta/Anthropic/Google/OpenAI将就AI安全测试会见特朗普官员、AI监管从讨论转向实施
 - [2026-08-04](./daily_report_file/2026-08-04.md) - 阿里发布Qwen3.8-Max在智能体基准超越GPT-5.6和Fable 5、欧盟AI法案第50条透明度规则正式生效、Asana推出Agentic Work Management解决AI Agent记忆共享难题、开放权重与定价策略分析、智能体编排层成为下一竞争焦点
 - [2026-08-03](./daily_report_file/2026-08-03.md) - OpenAI安全实践与欧盟AI法案对齐、GPT-5.6 Luna大降价80%、GM工程工作流重构合并PR翻三倍、医疗AI文档处理突破、GraphRAG vs Vector RAG技术对比、企业AI Agent三大挑战、中美AI决赛格局形成
 - [2026-08-02](./daily_report_file/2026-08-02.md) - 欧盟AI法案透明度要求正式生效、Kimi K3在MI355X运行性价比超越B300、字节跳动发布Seedance 2.5、腾讯AI虚拟细胞算法登《Cell》主刊、Meta承诺7000亿美元AI基础设施投资、山东力争3年集聚万名AI OPC创新人才、部分美国企业换上中国大模型降低成本、长三角Token运营中心启动
