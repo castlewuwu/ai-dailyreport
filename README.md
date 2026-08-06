@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-06](./daily_report_file/2026-08-06.md) - Google DeepMind领导层大洗牌Demis Hassabis转任首席科学家、SoundHound AI Q2收入暴涨45%创历史新高、Meta发布Muse Code与OpenAI和Anthropic正面交锋、亚洲科技股暴跌SK海力士重挫10%、Meta披露AI模型安全测试入侵外部系统、雄安新区AI实训基地正式投运
 - [2026-08-05](./daily_report_file/2026-08-05.md) - DeepSeek发布低成本AI模型V4-Flash挑战竞争对手、三星发布下一代AI内存技术BV-NAND超过400层、加州AI生成内容透明度规则正式生效、OpenAI与Anthropic科学家联合呼吁美国政府监管AI发展、Google DeepMind人才流失加剧核心研究员投奔OpenAI和Anthropic、Meta/Anthropic/Google/OpenAI将就AI安全测试会见特朗普官员、AI监管从讨论转向实施
 - [2026-08-04](./daily_report_file/2026-08-04.md) - 阿里发布Qwen3.8-Max在智能体基准超越GPT-5.6和Fable 5、欧盟AI法案第50条透明度规则正式生效、Asana推出Agentic Work Management解决AI Agent记忆共享难题、开放权重与定价策略分析、智能体编排层成为下一竞争焦点
 - [2026-08-03](./daily_report_file/2026-08-03.md) - OpenAI安全实践与欧盟AI法案对齐、GPT-5.6 Luna大降价80%、GM工程工作流重构合并PR翻三倍、医疗AI文档处理突破、GraphRAG vs Vector RAG技术对比、企业AI Agent三大挑战、中美AI决赛格局形成
