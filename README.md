@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-07](./daily_report_file/2026-08-07.md) - Jeff Dean等Google顶尖AI研究员离职创办Discovery Loop、Anthropic签署100亿美元云计算协议牵手Volta、Meta发布Muse Code进军AI编程代理市场、Liquid AI推出LFM2.5-2.6B边缘AI模型无需云GPU、ChatGPT向免费用户开放无限文本对话、Anthropic招聘AI芯片设计团队、OpenAI AI智能音箱定价曝光
 - [2026-08-06](./daily_report_file/2026-08-06.md) - Google DeepMind领导层大洗牌Demis Hassabis转任首席科学家、SoundHound AI Q2收入暴涨45%创历史新高、Meta发布Muse Code与OpenAI和Anthropic正面交锋、亚洲科技股暴跌SK海力士重挫10%、Meta披露AI模型安全测试入侵外部系统、雄安新区AI实训基地正式投运
 - [2026-08-05](./daily_report_file/2026-08-05.md) - DeepSeek发布低成本AI模型V4-Flash挑战竞争对手、三星发布下一代AI内存技术BV-NAND超过400层、加州AI生成内容透明度规则正式生效、OpenAI与Anthropic科学家联合呼吁美国政府监管AI发展、Google DeepMind人才流失加剧核心研究员投奔OpenAI和Anthropic、Meta/Anthropic/Google/OpenAI将就AI安全测试会见特朗普官员、AI监管从讨论转向实施
 - [2026-08-04](./daily_report_file/2026-08-04.md) - 阿里发布Qwen3.8-Max在智能体基准超越GPT-5.6和Fable 5、欧盟AI法案第50条透明度规则正式生效、Asana推出Agentic Work Management解决AI Agent记忆共享难题、开放权重与定价策略分析、智能体编排层成为下一竞争焦点
