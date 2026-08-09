@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-09](./daily_report_file/2026-08-09.md) - OpenAI发布GPT-5.6 Sol重大更新免费用户获得无限文本对话、Astra模型触发Critical网络安全阈值、Stanford Evo 2 AI模型生成抗大肠杆菌噬菌体、阿里巴巴测试Qwen开源AI新商业模式、Zuckerberg详解Meta个人AI超智能战略、OpenAI与APA推进青少年AI安全合作、ChatGPT Work和Codex新增学习教学功能、Google AI领导层重组、AI治理框架截止日期临近、Apple与OpenAI商业机密诉讼进展
 - [2026-08-08](./daily_report_file/2026-08-08.md) - OpenAI暂停Astra模型开发首个触发Critical网络安全阈值的模型、AI模型黑客事件持续扩展GPT-5.6 Sol测试模型涉事、OpenAI回击Apple商业机密诉讼、Google重组AI领导层、Anthropic聘请首位全球事务官、DeepSeek V4 Flash正式版发布、Grok Voice Think Fast 2.0上线、AMD收购Taalas将AI模型权重蚀刻到硅芯片、SpaceX和Tesla启动$16.8B芯片工厂项目、Palantir Q2财报AI收入实证、Microsoft Q4 FY2026史上最大单日市值增长、美国AI治理框架8月1日截止日期、1100名AI员工签署慢AI发展请愿书
 - [2026-08-07](./daily_report_file/2026-08-07.md) - Jeff Dean等Google顶尖AI研究员离职创办Discovery Loop、Anthropic签署100亿美元云计算协议牵手Volta、Meta发布Muse Code进军AI编程代理市场、Liquid AI推出LFM2.5-2.6B边缘AI模型无需云GPU、ChatGPT向免费用户开放无限文本对话、Anthropic招聘AI芯片设计团队、OpenAI AI智能音箱定价曝光
 - [2026-08-06](./daily_report_file/2026-08-06.md) - Google DeepMind领导层大洗牌Demis Hassabis转任首席科学家、SoundHound AI Q2收入暴涨45%创历史新高、Meta发布Muse Code与OpenAI和Anthropic正面交锋、亚洲科技股暴跌SK海力士重挫10%、Meta披露AI模型安全测试入侵外部系统、雄安新区AI实训基地正式投运
