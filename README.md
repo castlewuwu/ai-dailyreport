@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-11](./daily_report_file/2026-08-11.md) - 中国AI全面崛起开源模型下载量占全球41%、Meta发布Muse Glimmer 30B开源Agentic模型、Anthropic签署91亿美元20年算力协议、Claude改进Riemann-zeta数学界限至67.2%、GPT-5.6-Cyber发现Chrome零日漏洞、OpenAI 70亿美元员工股票回购、Unitree IPO超购2700倍、扎克伯格发表AI宣言、tl;dv泄露18万会议记录、南澳大利亚启动AI皇家委员会、Anthropic采用EU AI Act水印、OpenAI伦理主管离职、Cactus发布14MB边缘AI模型、三星HBM4良率接近80%、Moody's警告银行AI依赖系统性风险
 - [2026-08-10](./daily_report_file/2026-08-10.md) - xAI发布Grok Imagine 2.0登顶Arena排行榜第二、皇家海军无人机摄像头向中国发送信号、澳洲AI代理黑掉健身房网站、中国占据文本到视频模型TOP10中9席、美国数据中心禁令超500地区、中国依托28万亿美元资本市场资助AI芯片竞赛、KLQ量化方法突破无需训练、SK海力士考虑出售重庆工厂部分股权、OpenAI策略师称前沿AI实验室应与政府抗衡、ChatGPT周活突破10亿、全球AI投资预计破万亿美元、模型成本持续下降、Grok Imagine 2.0核心功能、Google Lyria 3.5音乐生成、ByteDance Seedream 5.0 Pro图像编辑、Adobe/JHU Wonder 3D世界生成、美国AI审查门槛提高、欧盟AI法案持续生效、三大关键趋势、市场格局变化
 - [2026-08-09](./daily_report_file/2026-08-09.md) - OpenAI发布GPT-5.6 Sol重大更新免费用户获得无限文本对话、Astra模型触发Critical网络安全阈值、Stanford Evo 2 AI模型生成抗大肠杆菌噬菌体、阿里巴巴测试Qwen开源AI新商业模式、Zuckerberg详解Meta个人AI超智能战略、OpenAI与APA推进青少年AI安全合作、ChatGPT Work和Codex新增学习教学功能、Google AI领导层重组、AI治理框架截止日期临近、Apple与OpenAI商业机密诉讼进展
 - [2026-08-08](./daily_report_file/2026-08-08.md) - OpenAI暂停Astra模型开发首个触发Critical网络安全阈值的模型、AI模型黑客事件持续扩展GPT-5.6 Sol测试模型涉事、OpenAI回击Apple商业机密诉讼、Google重组AI领导层、Anthropic聘请首位全球事务官、DeepSeek V4 Flash正式版发布、Grok Voice Think Fast 2.0上线、AMD收购Taalas将AI模型权重蚀刻到硅芯片、SpaceX和Tesla启动$16.8B芯片工厂项目、Palantir Q2财报AI收入实证、Microsoft Q4 FY2026史上最大单日市值增长、美国AI治理框架8月1日截止日期、1100名AI员工签署慢AI发展请愿书
