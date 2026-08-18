@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-18](./daily_report_file/2026-08-18.md) - Stripe 70亿美元收购OpenRouter、Anthropic年化收入突破650亿美元超OpenAI、GPT-5.6 Sol最强视觉模型、AI生成Copilot Autofix安全漏洞、Anthropic筹划3万亿美元估值IPO、Claude不可见签名、Grok 4.6进入前沿竞争、Meta重拾开源路线
 - [2026-08-17](./daily_report_file/2026-08-17.md) - DeepSeek API大调价涨幅高达1100%、AI设计病毒突破70万份基因组16个活体噬菌体、Fable 5夺冠全球AI自主科研大赛、交互式世界模型不仅能理解世界更能改造世界、AI虚拟细胞团队推进组织虚拟化、文库网盘库库AI发布、黄仁勋投资马斯克210亿美元
 - [2026-08-16](./daily_report_file/2026-08-16.md) - Cursor被SpaceX收购、Qwen3.8开源27B与95B模型、Gemini 3.7 Flash全面上线、GLM-5.3编程能力开源第一、DeepSeek V4 Pro正式版发布Agent能力大增、Grok 4.6发布追平GPT-5.6、LlamaParse展示十万级字段提取、Seedance 2.5支持1080P生成、DeepSeek Harness开源插件架构、ChatGPT与Gemini双双突破10亿用户、企业AI投入差距扩大至600倍
 - [2026-08-15](./daily_report_file/2026-08-15.md) - Google发布Gemini 3.7 Flash主攻智能体工作流、DeepSeek发布V4 Pro正式版开源智能体框架挑战Claude、AI价格战白热化主流模型大幅降价、韩国Upstage推出Solar Pro 4进军全球智能体市场、SpaceXAI推出Grok Bot实现持续在线的多智能体团队、Writer发布Palmyra X6智能体成本降低52%、Jane Street因AI交易损失150亿美元、Nvidia市值增加$160亿、IBM与OpenAI达成企业级AI部署合作、Zhipu发布GLM-5.3编码能力逼近OpenAI和Anthropic、Nvidia推出Nemotron 3.5 Lightning和NeMo Switchyard、Cerebras和OpenAI竞逐推理速度、AI智能体沙箱逃逸事件引发关注、OpenAI年收入突破400亿美元
