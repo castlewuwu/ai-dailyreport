@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-21](./daily_report_file/2026-08-21.md) - Slack发布Slack Code多人协作AI编程新范式、Micro1年化收入达5亿美元、三分之一新网页显示AI创作痕迹、OpenAI在企业市场追赶Anthropic、TrueFoundry开源AI代理框架TrueForge成本降30-75%
 - [2026-08-20](./daily_report_file/2026-08-20.md) - OpenAI推出零数据保留政策、Stripe 70亿美元收购OpenRouter、Anthropic年化收入650亿美元、Etched估值210亿美元、Cursor推出GitHub竞品、Google搜索和Gemini推出AI学习工具
 - [2026-08-18](./daily_report_file/2026-08-18.md) - Stripe 70亿美元收购OpenRouter、Anthropic年化收入突破650亿美元超OpenAI、GPT-5.6 Sol最强视觉模型、AI生成Copilot Autofix安全漏洞、Anthropic筹划3万亿美元估值IPO、Claude不可见签名、Grok 4.6进入前沿竞争、Meta重拾开源路线
 - [2026-08-17](./daily_report_file/2026-08-17.md) - DeepSeek API大调价涨幅高达1100%、AI设计病毒突破70万份基因组16个活体噬菌体、Fable 5夺冠全球AI自主科研大赛、交互式世界模型不仅能理解世界更能改造世界、AI虚拟细胞团队推进组织虚拟化、文库网盘库库AI发布、黄仁勋投资马斯克210亿美元
