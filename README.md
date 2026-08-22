@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-22](./daily_report_file/2026-08-22.md) - 2026绿色算力大会在呼和浩特召开、Gartner报告肯定中国AI进展、GLM-5.2 Turbo/Gemini 3.7 Flash等12款新模型发布、国产开源大模型密集上新、AWS接入Grok 4.6
 - [2026-08-21](./daily_report_file/2026-08-21.md) - Slack发布Slack Code多人协作AI编程新范式、Micro1年化收入达5亿美元、三分之一新网页显示AI创作痕迹、OpenAI在企业市场追赶Anthropic、TrueFoundry开源AI代理框架TrueForge成本降30-75%
 - [2026-08-20](./daily_report_file/2026-08-20.md) - OpenAI推出零数据保留政策、Stripe 70亿美元收购OpenRouter、Anthropic年化收入650亿美元、Etched估值210亿美元、Cursor推出GitHub竞品、Google搜索和Gemini推出AI学习工具
 - [2026-08-18](./daily_report_file/2026-08-18.md) - Stripe 70亿美元收购OpenRouter、Anthropic年化收入突破650亿美元超OpenAI、GPT-5.6 Sol最强视觉模型、AI生成Copilot Autofix安全漏洞、Anthropic筹划3万亿美元估值IPO、Claude不可见签名、Grok 4.6进入前沿竞争、Meta重拾开源路线
