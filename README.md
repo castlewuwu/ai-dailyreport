@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-27](./daily_report_file/2026-08-27.md) - NVIDIA拟130亿美元收购Hugging Face、OpenAI发布Hugging Face安全事故报告、开发者创建开源AI CEO项目
 - [2026-08-26](./daily_report_file/2026-08-26.md) - OpenAI自研推理芯片Jalapeño实测超越英伟达GB300、苹果发布首款2纳米M6芯片AI性能提升4倍、Anthropic冲刺史上最大IPO估值目标2万亿美元
 - [2026-08-25](./daily_report_file/2026-08-25.md) - SuperGrok Heavy承诺变更、8月31日双重截止日期倒计时6天、Pinecone Nexus检索层击败前沿模型、Meta和DeepSeek静默上架OpenRouter、Ray框架漏洞更新
 - [2026-08-24](./daily_report_file/2026-08-24.md) - Claude Code登顶Agent排行榜第一、Cloudflare为AI代理构建浏览器+钱包+支付协议、8月31日多重截止日期、Ray漏洞修复进展、OpenAI S-1仍未发布
