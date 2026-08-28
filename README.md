@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-28](./daily_report_file/2026-08-28.md) - Anthropic发布Model Hardware Standard让AI操控物理设备、GPT-5.6 Luna掀起小模型成本革命、Google推出Gemini 3.5 Transcribe和Omni 1.1 Flash
 - [2026-08-27](./daily_report_file/2026-08-27.md) - NVIDIA拟130亿美元收购Hugging Face、OpenAI发布Hugging Face安全事故报告、开发者创建开源AI CEO项目
 - [2026-08-26](./daily_report_file/2026-08-26.md) - OpenAI自研推理芯片Jalapeño实测超越英伟达GB300、苹果发布首款2纳米M6芯片AI性能提升4倍、Anthropic冲刺史上最大IPO估值目标2万亿美元
 - [2026-08-25](./daily_report_file/2026-08-25.md) - SuperGrok Heavy承诺变更、8月31日双重截止日期倒计时6天、Pinecone Nexus检索层击败前沿模型、Meta和DeepSeek静默上架OpenRouter、Ray框架漏洞更新
