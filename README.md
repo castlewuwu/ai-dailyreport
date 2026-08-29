@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-29](./daily_report_file/2026-08-29.md) - NVIDIA完成130亿美元收购Hugging Face、Lambda获得10亿美元债务融资、Anthropic研究员展示自改进AI、OpenAI等百家公司联合呼吁对抗流氓AI
 - [2026-08-28](./daily_report_file/2026-08-28.md) - Anthropic发布Model Hardware Standard让AI操控物理设备、GPT-5.6 Luna掀起小模型成本革命、Google推出Gemini 3.5 Transcribe和Omni 1.1 Flash
 - [2026-08-27](./daily_report_file/2026-08-27.md) - NVIDIA拟130亿美元收购Hugging Face、OpenAI发布Hugging Face安全事故报告、开发者创建开源AI CEO项目
 - [2026-08-26](./daily_report_file/2026-08-26.md) - OpenAI自研推理芯片Jalapeño实测超越英伟达GB300、苹果发布首款2纳米M6芯片AI性能提升4倍、Anthropic冲刺史上最大IPO估值目标2万亿美元
