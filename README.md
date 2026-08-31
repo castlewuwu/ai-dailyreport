@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-31](./daily_report_file/2026-08-31.md) - 英伟达AI优势超越GPU、循环融资模式明年四分之一营收来自投资的AI实验室、100多家公司联合呼吁防御流氓AI、Gatik获2亿美元融资扩展自动驾驶货运、英伟达推出Jetson Orin Nano 2面向机器人和无人机
 - [2026-08-30](./daily_report_file/2026-08-30.md) - 英伟达拟129亿美元收购Hugging Face、索尼华纳起诉Anthropic知识产权盗窃、Salesforce将CRM集成到Claude、Perplexity与英伟达推出本地AI代理、Anthropic研究员展示自改进AI、Meta研究8B参数模型媲美Claude Opus 4.5
 - [2026-08-29](./daily_report_file/2026-08-29.md) - NVIDIA完成130亿美元收购Hugging Face、Lambda获得10亿美元债务融资、Anthropic研究员展示自改进AI、OpenAI等百家公司联合呼吁对抗流氓AI
 - [2026-08-28](./daily_report_file/2026-08-28.md) - Anthropic发布Model Hardware Standard让AI操控物理设备、GPT-5.6 Luna掀起小模型成本革命、Google推出Gemini 3.5 Transcribe和Omni 1.1 Flash
