@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-03](./daily_report_file/2026-09-03.md) - OpenClaw 2.0发布开启多人协作AI编程时代、GLM-5.3-Flash震撼发布运行在中国芯片架构、Anthropic推出Claude Fable 5.1成本降低75%、Perplexity混合AI保持机密数据本地化、阿布扎比G42考虑融资数十亿美元
 - [2026-09-02](./daily_report_file/2026-09-02.md) - AfterQuery成为YC史上最快独角兽估值32亿、OpenAI Astra模型首个触发关键网络安全阈值、Anthropic发布Fable 5.1支持零数据保留、Apple诉OpenAI商业机密案升级、Nvidia向MediaTek投资35亿美元
 - [2026-09-01](./daily_report_file/2026-09-01.md) - Manus恢复独立运营、科大讯飞开源两款端侧通用大模型、摩根士丹利和花旗要求律所降费分享AI效益、英伟达收购Hugging Face意向曝光、Anthropic发布模型硬件标准、可穿戴AI硬件成新热点
 - [2026-08-31](./daily_report_file/2026-08-31.md) - 英伟达AI优势超越GPU、循环融资模式明年四分之一营收来自投资的AI实验室、100多家公司联合呼吁防御流氓AI、Gatik获2亿美元融资扩展自动驾驶货运、英伟达推出Jetson Orin Nano 2面向机器人和无人机
