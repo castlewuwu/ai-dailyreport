@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-04](./daily_report_file/2026-09-04.md) - OpenAI发布GPT-6 Astra新一代智能模型、Anthropic发布Claude Fable 5.1和Mythos 5.1编程知识工作模型、OpenAI推出ChatGPT健康功能加强安全防护、Jalapeño推理芯片测试结果行业领先、Claude Opus 5发布支持长时间运行Agent、Model Hardware Standard研究预览开启
 - [2026-09-03](./daily_report_file/2026-09-03.md) - OpenClaw 2.0发布开启多人协作AI编程时代、GLM-5.3-Flash震撼发布运行在中国芯片架构、Anthropic推出Claude Fable 5.1成本降低75%、Perplexity混合AI保持机密数据本地化、阿布扎比G42考虑融资数十亿美元
 - [2026-09-02](./daily_report_file/2026-09-02.md) - AfterQuery成为YC史上最快独角兽估值32亿、OpenAI Astra模型首个触发关键网络安全阈值、Anthropic发布Fable 5.1支持零数据保留、Apple诉OpenAI商业机密案升级、Nvidia向MediaTek投资35亿美元
 - [2026-09-01](./daily_report_file/2026-09-01.md) - Manus恢复独立运营、科大讯飞开源两款端侧通用大模型、摩根士丹利和花旗要求律所降费分享AI效益、英伟达收购Hugging Face意向曝光、Anthropic发布模型硬件标准、可穿戴AI硬件成新热点
