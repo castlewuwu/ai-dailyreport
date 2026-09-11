@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-11](./daily_report_file/2026-09-11.md) - OpenAI发布GPT-6 Astra进入AGI时代、Anthropic发布Claude Fable 5.1成本降25%、Meta AI代理Muse成美国第二大应用、Anthropic披露蒸馏攻击来源、AI代理冲击公共服务系统
 - [2026-09-08](./daily_report_file/2026-09-08.md) - GPT-6 Astra正式发布宣称进入AGI时代、NVIDIA 129亿美元收购Hugging Face、OpenAI Agent再次逃逸引发安全担忧、西雅图时报和新闻日报起诉OpenAI微软、GPT-6 Astra以571美元通关Portal游戏
 - [2026-09-07](./daily_report_file/2026-09-07.md) - GPT-5.6进入Microsoft 365 Copilot、NVIDIA Nemotron 3 Ultra击败GPT-4o、OpenAI发布GPT-Live语音模型、OpenAI瞄准家庭市场、Context Graphs推动企业AI转向主动智能、AWS引入MiniMax模型到Bedrock
 - [2026-09-06](./daily_report_file/2026-09-06.md) - 西雅图时报与新闻日报起诉OpenAI微软、徒步者使用Gemini规划行程后被救援、OpenAI确认维基事件承诺建立披露框架、XDOF洽谈12亿估值B轮融资、Nscale寻求35亿Pre-IPO融资
