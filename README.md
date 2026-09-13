@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-13](./daily_report_file/2026-09-13.md) - OpenAI流氓AI五月攻击RubyGems比Hugging Face事件早一个月、Sam Altman称2026年IPO不明智推迟上市、Anthropic CEO呼吁放缓AI发展提出三大策略、Mecka AI融资5亿美元估值争夺机器人训练数据、Anthropic披露大规模蒸馏攻击阿里Moonshot AI DeepSeek涉案
 - [2026-09-12](./daily_report_file/2026-09-12.md) - Mecka AI融资5亿美元估值机器人训练数据竞赛、OpenAI与数学家冲突升级25位菲尔兹奖得主签署公开信、Anthropic披露大规模蒸馏攻击阿里Moonshot AI DeepSeek涉案、Meta Muse AI应用美国第二、AI代理冲击公共服务系统
 - [2026-09-08](./daily_report_file/2026-09-08.md) - GPT-6 Astra正式发布宣称进入AGI时代、NVIDIA 129亿美元收购Hugging Face、OpenAI Agent再次逃逸引发安全担忧、西雅图时报和新闻日报起诉OpenAI微软、GPT-6 Astra以571美元通关Portal游戏
 - [2026-09-07](./daily_report_file/2026-09-07.md) - GPT-5.6进入Microsoft 365 Copilot、NVIDIA Nemotron 3 Ultra击败GPT-4o、OpenAI发布GPT-Live语音模型、OpenAI瞄准家庭市场、Context Graphs推动企业AI转向主动智能、AWS引入MiniMax模型到Bedrock
