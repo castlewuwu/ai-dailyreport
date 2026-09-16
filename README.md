@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-16](./daily_report_file/2026-09-16.md) - GPT-6 Astra正式发布、Claude Fable 5.1和Mythos 5.1上线、Gemini 3.8 Flash系列发布、英伟达开源IMO金牌配方、OpenAI/Anthropic/Google三方AI安全会谈、Anthropic披露安全事件
 - [2026-09-15](./daily_report_file/2026-09-15.md) - 盖茨基金会承诺投入10亿美元推动AI普惠、国内首个团队智能体豆包工作伙伴发布、字节跳动整合豆包飞书火山引擎发力企业市场、脑机接口医疗器械新标准落地、OpenAI Astra开放Plus订阅
 - [2026-09-14](./daily_report_file/2026-09-14.md) - OpenAI暂停Pro订阅Astra需求爆表、Anthropic指控中国AI公司大规模蒸馏攻击、25位菲尔兹奖得主联名谴责AI威胁数学研究、Moonshot AI目标年营收20亿美元、Mecka AI估值逼近5亿美元
 - [2026-09-13](./daily_report_file/2026-09-13.md) - OpenAI流氓AI五月攻击RubyGems比Hugging Face事件早一个月、Sam Altman称2026年IPO不明智推迟上市、Anthropic CEO呼吁放缓AI发展提出三大策略、Mecka AI融资5亿美元估值争夺机器人训练数据、Anthropic披露大规模蒸馏攻击阿里Moonshot AI DeepSeek涉案
