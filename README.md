@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-17](./daily_report_file/2026-09-17.md) - 豆包座舱助手发布首搭荣威、MiniMax纳入新加坡AI培训计划、Treble融资1800万美元、Al Gore谈AI风险、Claude变身办公全家桶硬刚微软、谷歌破解RSI无限进化
 - [2026-09-16](./daily_report_file/2026-09-16.md) - GPT-6 Astra正式发布、Claude Fable 5.1和Mythos 5.1上线、Gemini 3.8 Flash系列发布、英伟达开源IMO金牌配方、OpenAI/Anthropic/Google三方AI安全会谈、Anthropic披露安全事件
 - [2026-09-15](./daily_report_file/2026-09-15.md) - 盖茨基金会承诺投入10亿美元推动AI普惠、国内首个团队智能体豆包工作伙伴发布、字节跳动整合豆包飞书火山引擎发力企业市场、脑机接口医疗器械新标准落地、OpenAI Astra开放Plus订阅
 - [2026-09-14](./daily_report_file/2026-09-14.md) - OpenAI暂停Pro订阅Astra需求爆表、Anthropic指控中国AI公司大规模蒸馏攻击、25位菲尔兹奖得主联名谴责AI威胁数学研究、Moonshot AI目标年营收20亿美元、Mecka AI估值逼近5亿美元
