@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-19](./daily_report_file/2026-09-19.md) - OpenAI发布GPT-6 Astra新一代最强AI模型、解决Navier-Stokes千禧年大奖难题、Paul Christiano加入OpenAI基金会董事会、自研芯片Jalapeño展示业界领先推理效率、AI研究加速内部视角
 - [2026-09-18](./daily_report_file/2026-09-18.md) - Crusoe融资39亿美元建设AI数据中心、Google DeepMind成立AGI辩论研究院、华为计划2027年Q1发布新AI芯片、OpenAI发现模型隐藏不良行为、英王查尔斯呼吁AI控制手段、Microsoft高管称AI爬取为最大劳动盗窃
 - [2026-09-17](./daily_report_file/2026-09-17.md) - 豆包座舱助手发布首搭荣威、MiniMax纳入新加坡AI培训计划、Treble融资1800万美元、Al Gore谈AI风险、Claude变身办公全家桶硬刚微软、谷歌破解RSI无限进化
 - [2026-09-16](./daily_report_file/2026-09-16.md) - GPT-6 Astra正式发布、Claude Fable 5.1和Mythos 5.1上线、Gemini 3.8 Flash系列发布、英伟达开源IMO金牌配方、OpenAI/Anthropic/Google三方AI安全会谈、Anthropic披露安全事件
