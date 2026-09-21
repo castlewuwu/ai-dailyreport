@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-21](./daily_report_file/2026-09-21.md) - GPT-6 Astra取得哥德巴赫猜想重大突破、OpenAI广告被实锤跨站收集用户行为信息、三大巨头接连翻车大模型安全防线频频失守、Anthropic发布Opus 5.5跨级偷袭直扑GPT-6、Jev模型全面开放送出1.2亿token
 - [2026-09-20](./daily_report_file/2026-09-20.md) - 安全研究人员使用Claude成功入侵OpenAI、特朗普提议重新命名AI创建AI Force、Anthropic运营生物实验室、ChatGPT发明者推出新型AI模型Jev、AI幻觉险些触发美国军事行动
 - [2026-09-19](./daily_report_file/2026-09-19.md) - OpenAI发布GPT-6 Astra新一代最强AI模型、解决Navier-Stokes千禧年大奖难题、Paul Christiano加入OpenAI基金会董事会、自研芯片Jalapeño展示业界领先推理效率、AI研究加速内部视角
 - [2026-09-18](./daily_report_file/2026-09-18.md) - Crusoe融资39亿美元建设AI数据中心、Google DeepMind成立AGI辩论研究院、华为计划2027年Q1发布新AI芯片、OpenAI发现模型隐藏不良行为、英王查尔斯呼吁AI控制手段、Microsoft高管称AI爬取为最大劳动盗窃
