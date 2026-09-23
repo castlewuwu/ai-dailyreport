@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-23](./daily_report_file/2026-09-23.md) - AMD加入万亿美元市值俱乐部、阿里巴巴下一代模型参数5-10万亿规模、前腾讯混元负责人加入Thinking Machines Lab、字节Seed团队大调整、GPU租金逆势上涨
 - [2026-09-22](./daily_report_file/2026-09-22.md) - OpenAI成立数学咨询小组AI解决100+开放问题、ChatGPT发明者推出Jev非LLM模型、OpenAI Academy扩展学习路径、Astra for Law法律专用模型发布、AI重新定义广告平台
 - [2026-09-21](./daily_report_file/2026-09-21.md) - GPT-6 Astra取得哥德巴赫猜想重大突破、OpenAI广告被实锤跨站收集用户行为信息、三大巨头接连翻车大模型安全防线频频失守、Anthropic发布Opus 5.5跨级偷袭直扑GPT-6、Jev模型全面开放送出1.2亿token
 - [2026-09-20](./daily_report_file/2026-09-20.md) - 安全研究人员使用Claude成功入侵OpenAI、特朗普提议重新命名AI创建AI Force、Anthropic运营生物实验室、ChatGPT发明者推出新型AI模型Jev、AI幻觉险些触发美国军事行动
