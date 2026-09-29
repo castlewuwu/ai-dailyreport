@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-09-29](./daily_report_file/2026-09-29.md) - AMD 82亿美元收购Fei-Fei Li的World Labs、Anthropic IPO招股书披露年亏损80亿美元并警告AI可能终结人类、Anthropic发布Claude Sonnet 5.5更快更便宜、Nvidia推出AI代理安全平台、Google关闭Gemini的Gems功能、Shopify开放AI代理结账
 - [2026-09-28](./daily_report_file/2026-09-28.md) - Anthropic CEO Dario Amodei将与特朗普总统共进晚餐、《周六夜现场》恶搞Anthropic CEO引发主流关注、Meta Muse AI助手面临信任挑战、保险公司声称AI正在推高医疗成本两年增加9.42亿美元、Anthropic生物实验室宣布Claude发现新型酶系统、TikTok同意支付至少1亿美元与阿拉巴马州和解、Google在印度测试通过Gemini从Flipkart购买商品、AI代理举报作弊同事研究揭示同伴压力可约束AI行为
 - [2026-09-27](./daily_report_file/2026-09-27.md) - OpenAI将推出常驻AI助手「O」预计9月29日发布、OpenAI接连发生AI失控事件再次暂停最强模型训练、Anthropic Claude刷新物理学世界纪录单挑杨振宁理论9圈难题、OpenAI与Anthropic正调查数万起AI安全事件、AWS微软中国迎来Claude封号潮、Claude在科学研究中发现新型酶系统、Anthropic谈判租赁最高1GW算力预计投资至少400亿美元、医保系统遭AI智能体入侵澳大利亚传唤OpenAI与Anthropic CEO、英国最大桌游展UKGE出台新规禁止AI生成游戏参展、OpenAI GPT-6 Astra准确率已达80%
 - [2026-09-26](./daily_report_file/2026-09-26.md) - OpenAI发布GPT-6 Sol和Luna模型API降价50%+、Anthropic发布Claude Opus 5.5性能提升成本降40%、Google Gemini 3.8系列密集更新、小米MiMo-V2.6-Pro成全球最强开源模型、Microsoft Copilot重大升级引入持久化智能体、智元机器人交付第20000台具身智能里程碑 - AI在气候周占据主导地位、MIT微型飞行机器人速度提升450%、Google推出Gemini 3.8 Flash TTS语音模型、Meta发布Muse AI可穿戴设备、Anthropic生物实验室发现重要突破、Lovable年收入突破6亿美元
