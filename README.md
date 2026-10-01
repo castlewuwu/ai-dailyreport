@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-01](./daily_report_file/2026-10-01.md) - Google发布Gemini 4 Argon最强模型仅限网络防御专家使用、ElevenLabs估值翻倍至220亿美元、OpenAI发布Dots AI代理开启AI同事时代、GPT-6.1 Sol性能接近Astra成本仅1/5、FTC调查OpenAI和Anthropic、Reddit终止RSS和公开API归咎AI机器人、DoorDash推出短信AI代理点餐、Nanoleaf让Claude/ChatGPT控制智能灯、Flow Engineering获7.5亿美元估值、特朗普签署AI安全协议科技巨头承诺自我监管
 - [2026-09-30](./daily_report_file/2026-09-30.md) - OpenAI发布GPT-6.1 Sol性能接近Astra成本仅1/5、OpenAI推出革命性AI助手Dots支持7×24小时自主工作、Anthropic发布Claude Sonnet 5.5速度提升30%成本降低30%、Claude科学突破发现新型酶系统具有CRISPR类特征、行业趋势：成本效率革命、AI代理化趋势加速
 - [2026-09-29](./daily_report_file/2026-09-29.md) - AMD 82亿美元收购Fei-Fei Li的World Labs、Anthropic IPO招股书披露年亏损80亿美元并警告AI可能终结人类、Anthropic发布Claude Sonnet 5.5更快更便宜、Nvidia推出AI代理安全平台、Google关闭Gemini的Gems功能、Shopify开放AI代理结账
 - [2026-09-28](./daily_report_file/2026-09-28.md) - Anthropic CEO Dario Amodei将与特朗普总统共进晚餐、《周六夜现场》恶搞Anthropic CEO引发主流关注、Meta Muse AI助手面临信任挑战、保险公司声称AI正在推高医疗成本两年增加9.42亿美元、Anthropic生物实验室宣布Claude发现新型酶系统、TikTok同意支付至少1亿美元与阿拉巴马州和解、Google在印度测试通过Gemini从Flipkart购买商品、AI代理举报作弊同事研究揭示同伴压力可约束AI行为
