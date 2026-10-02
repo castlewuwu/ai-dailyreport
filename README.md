@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-02](./daily_report_file/2026-10-02.md) - OpenAI发布GPT-6.1 Sol及Dots智能体协作工具、AMD收购World Labs加码AI算力、MiniMax加入Flash模型混战、DeepSeek开源算子工具包联手华为昇腾挑战CUDA、阶跃Step 5 Preview重回全球开源第一梯队、Meshy ARR破1亿美元3D AI生成成新赛道、百度库库AI发布AI办公进入上下文战争、Personal Agent时代来临Muse与Dots抢占互联网入口、美团酒店AI助手案例、后训练服务兴起让模型微调人人可用
 - [2026-10-01](./daily_report_file/2026-10-01.md) - Google发布Gemini 4 Argon最强模型仅限网络防御专家使用、ElevenLabs估值翻倍至220亿美元、OpenAI发布Dots AI代理开启AI同事时代、GPT-6.1 Sol性能接近Astra成本仅1/5、FTC调查OpenAI和Anthropic、Reddit终止RSS和公开API归咎AI机器人、DoorDash推出短信AI代理点餐、Nanoleaf让Claude/ChatGPT控制智能灯、Flow Engineering获7.5亿美元估值、特朗普签署AI安全协议科技巨头承诺自我监管
 - [2026-09-30](./daily_report_file/2026-09-30.md) - OpenAI发布GPT-6.1 Sol性能接近Astra成本仅1/5、OpenAI推出革命性AI助手Dots支持7×24小时自主工作、Anthropic发布Claude Sonnet 5.5速度提升30%成本降低30%、Claude科学突破发现新型酶系统具有CRISPR类特征、行业趋势：成本效率革命、AI代理化趋势加速
 - [2026-09-29](./daily_report_file/2026-09-29.md) - AMD 82亿美元收购Fei-Fei Li的World Labs、Anthropic IPO招股书披露年亏损80亿美元并警告AI可能终结人类、Anthropic发布Claude Sonnet 5.5更快更便宜、Nvidia推出AI代理安全平台、Google关闭Gemini的Gems功能、Shopify开放AI代理结账
