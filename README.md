@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-03](./daily_report_file/2026-10-03.md) - OpenAI发布GPT-6家族实用指南、Sean Parker重塑Stability AI聚焦音乐领域、Meta开源Muse布局物联网生态、Apple加强AI智能体安全控制、超级智能经济的哲学思考
 - [2026-10-02](./daily_report_file/2026-10-02.md) - OpenAI发布GPT-6.1 Sol及Dots智能体协作工具、AMD收购World Labs加码AI算力、MiniMax加入Flash模型混战、DeepSeek开源算子工具包联手华为昇腾挑战CUDA、阶跃Step 5 Preview重回全球开源第一梯队、Meshy ARR破1亿美元3D AI生成成新赛道、百度库库AI发布AI办公进入上下文战争、Personal Agent时代来临Muse与Dots抢占互联网入口、美团酒店AI助手案例、后训练服务兴起让模型微调人人可用
 - [2026-10-01](./daily_report_file/2026-10-01.md) - Google发布Gemini 4 Argon最强模型仅限网络防御专家使用、ElevenLabs估值翻倍至220亿美元、OpenAI发布Dots AI代理开启AI同事时代、GPT-6.1 Sol性能接近Astra成本仅1/5、FTC调查OpenAI和Anthropic、Reddit终止RSS和公开API归咎AI机器人、DoorDash推出短信AI代理点餐、Nanoleaf让Claude/ChatGPT控制智能灯、Flow Engineering获7.5亿美元估值、特朗普签署AI安全协议科技巨头承诺自我监管
 - [2026-09-30](./daily_report_file/2026-09-30.md) - OpenAI发布GPT-6.1 Sol性能接近Astra成本仅1/5、OpenAI推出革命性AI助手Dots支持7×24小时自主工作、Anthropic发布Claude Sonnet 5.5速度提升30%成本降低30%、Claude科学突破发现新型酶系统具有CRISPR类特征、行业趋势：成本效率革命、AI代理化趋势加速
