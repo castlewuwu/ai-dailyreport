@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-05](./daily_report_file/2026-10-05.md) - Google发布Gemini 4 Argon重夺AI基准领先地位、OpenAI推出Dots交互式AI智能体头像、FTC对OpenAI和Anthropic展开产品安全调查、六大AI实验室签署白宫自愿安全协议、Anthropic威胁情报报告揭示AI武器化细节、智能体安全挑战凸显数万起事件被调查
 - [2026-10-04](./daily_report_file/2026-10-04.md) - OpenAI发布GPT-6.1 Sol性价比之王、解决Navier-Stokes千禧年数学难题、DevDay 2026盛大举行发布20+新产品、Astra for Law法律行业专用AI上线
 - [2026-10-03](./daily_report_file/2026-10-03.md) - OpenAI发布GPT-6家族实用指南、Sean Parker重塑Stability AI聚焦音乐领域、Meta开源Muse布局物联网生态、Apple加强AI智能体安全控制、超级智能经济的哲学思考
 - [2026-10-02](./daily_report_file/2026-10-02.md) - OpenAI发布GPT-6.1 Sol及Dots智能体协作工具、AMD收购World Labs加码AI算力、MiniMax加入Flash模型混战、DeepSeek开源算子工具包联手华为昇腾挑战CUDA、阶跃Step 5 Preview重回全球开源第一梯队、Meshy ARR破1亿美元3D AI生成成新赛道、百度库库AI发布AI办公进入上下文战争、Personal Agent时代来临Muse与Dots抢占互联网入口、美团酒店AI助手案例、后训练服务兴起让模型微调人人可用
