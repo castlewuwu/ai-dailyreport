@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-07](./daily_report_file/2026-10-07.md) - OpenAI发布重大AI数学研究成果攻破数百难题、AI教父辛顿提议建立FDA式审批机制、英伟达市值逼近6万亿美元创新高、DeepSeek接近完成800亿元融资、Mistral发布Large 4万亿参数开源模型、Claude深度集成Google Workspace、韩国推出4.7万亿韩元AI专项计划、SpaceX计划募资400亿美元采购AI芯片
 - [2026-10-06](./daily_report_file/2026-10-06.md) - OpenAI取消GPT-6.1 Astra发布因安全测试未达标、Anthropic发布Claude Sonnet 5.5、Google推出Gemini 4 Argon并允许工程师使用Claude编码、Verda完成1.89亿美元B轮融资、Q3全球AI投资创纪录、HCLSoftware收购Robotiq.ai增强企业自动化、AI芯片市场动态分析、SoundHound AI荣获年度最佳Agentic AI公司
 - [2026-10-05](./daily_report_file/2026-10-05.md) - Google发布Gemini 4 Argon重夺AI基准领先地位、OpenAI推出Dots交互式AI智能体头像、FTC对OpenAI和Anthropic展开产品安全调查、六大AI实验室签署白宫自愿安全协议、Anthropic威胁情报报告揭示AI武器化细节、智能体安全挑战凸显数万起事件被调查
 - [2026-10-04](./daily_report_file/2026-10-04.md) - OpenAI发布GPT-6.1 Sol性价比之王、解决Navier-Stokes千禧年数学难题、DevDay 2026盛大举行发布20+新产品、Astra for Law法律行业专用AI上线
