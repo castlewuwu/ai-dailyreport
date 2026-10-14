@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-14](./daily_report_file/2026-10-14.md) - Compal展示下一代NVIDIA AI平台、Deezer推出AI音乐屏蔽功能、Semperis报告AI驱动勒索软件攻击增加、Google为AI代理提供邮箱和日历、LG关注AI时代心理健康、IMF上调韩国增长预期至3.3%、Skan AI获评数字交互智能领导者
 - [2026-10-12](./daily_report_file/2026-10-12.md) - 字节发现DeepSeek V4模型重大缺陷加点空格模型翻车、IROS 2026具身智能进入工程落地阶段、田柯宇融资3000万美元估值2亿美元挑战李飞飞、Claude Haiku 5.5发布计算机操作能力暴涨价格降75%
 - [2026-10-11](./daily_report_file/2026-10-11.md) - 田柯宇创立VAR世界模型公司估值2亿美元、TypeSafe AI非文本模型Jev估值75亿美元、微软发布Decision-1决策模型、Claude动态多Agent工作流公测、谷歌内测Gemini 4 Argon、德国Ecosia换用中国开源模型、Deno团队加入Cloudflare、Margaret Hamilton去世
 - [2026-10-10](./daily_report_file/2026-10-10.md) - 儿童AI硬件公司物外智趣完成天使轮融资、新思科技与亚马逊达成10亿美元定制芯片协议、AI需求推动日本机床订单创新高、BAT集体重做AI预训练、Muse与dots争夺Personal Agent入口、田柯宇创办VAR挑战世界模型、IROS 2026具身学术与产业边界消融、昆仑万维Matrix-Game 3.5发布、华为NPO光互联技术突破
