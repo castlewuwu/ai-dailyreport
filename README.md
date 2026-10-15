@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-15](./daily_report_file/2026-10-15.md) - Google全面开放Gemini 4 Argon API价格大幅下调、Anthropic发布Claude Haiku 5.5降价90%对抗GPT-6 Luna、Figma发布新功能定义AI代理工作方式、OpenAI员工被捕案曝新细节单程机票飞往沙特、八州起诉OpenAI指控ChatGPT对儿童不安全、Character.AI申请破产成立仅5年、Meta发布首个前沿模型Muse Wonder挑战OpenAI、Apple Intelligence即将登陆中国配合iOS 27.3、McKinsey面试引入AI模拟客户对话、YouTube Music推出AI生成音乐标签
 - [2026-10-14](./daily_report_file/2026-10-14.md) - Compal展示下一代NVIDIA AI平台、Deezer推出AI音乐屏蔽功能、Semperis报告AI驱动勒索软件攻击增加、Google为AI代理提供邮箱和日历、LG关注AI时代心理健康、IMF上调韩国增长预期至3.3%、Skan AI获评数字交互智能领导者
 - [2026-10-12](./daily_report_file/2026-10-12.md) - 字节发现DeepSeek V4模型重大缺陷加点空格模型翻车、IROS 2026具身智能进入工程落地阶段、田柯宇融资3000万美元估值2亿美元挑战李飞飞、Claude Haiku 5.5发布计算机操作能力暴涨价格降75%
 - [2026-10-11](./daily_report_file/2026-10-11.md) - 田柯宇创立VAR世界模型公司估值2亿美元、TypeSafe AI非文本模型Jev估值75亿美元、微软发布Decision-1决策模型、Claude动态多Agent工作流公测、谷歌内测Gemini 4 Argon、德国Ecosia换用中国开源模型、Deno团队加入Cloudflare、Margaret Hamilton去世
