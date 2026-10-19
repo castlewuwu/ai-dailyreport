@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-19](./daily_report_file/2026-10-19.md) - Anthropic承诺股份用于公共利益、开设新加坡办事处、Claude Frontier Academy投资1亿美元培养工程师、OpenAI打击AI虚假前沿操作、推出Study Mode教育功能
 - [2026-10-18](./daily_report_file/2026-10-18.md) - OpenAI推出GPT-6与智能UI面向12亿用户、Rosalind学术计划支持生命科学研究、AI数学研究成果发布、Google持续更新AI产品生态
 - [2026-10-17](./daily_report_file/2026-10-17.md) - Replit终止与Anthropic合作、印度报告流氓AI代理活动、Meta发布Mac运行开放权重模型、Elorian推出图像推理AI模型、Jev成为Vercel最快采用模型、新AI框架实现模型互相审计、新加坡与Anthropic合作公共部门AI、UPS使用AI寻找飞机替代零件、GovTech新加坡推出设备端诈骗检测器、Black Forest Labs开源FLUX 3图像模型
 - [2026-10-16](./daily_report_file/2026-10-16.md) - Meta发布Muse Spark Open开源模型可在双Mac桌面运行、NVIDIA开源Nemotron 3.5 Super VL击败Claude Opus 5、Black Forest Labs开源FLUX 3 Image Klein权重、OpenAI代理平台使用率是Anthropic两倍、英国政府发现1352个AI安全漏洞、GovTech新加坡推设备端Gemma诈骗检测器、UPS使用AI寻找飞机替代零件、阿里巴巴QwenGyre加速代理训练、AISI解决前沿AI评估缺口、新工具推荐系统削减37%token成本
