@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-20](./daily_report_file/2026-10-20.md) - OpenAI提升低资源编程语言能力GPT-6 Astra通过率87.4%、推出GPT-6及Intelligent UI面向12亿用户、发布数学研究成果、青少年学习工具College Planner、Anthropic公共利益基金、新加坡办事处、中期选举保护
 - [2026-10-19](./daily_report_file/2026-10-19.md) - Anthropic承诺股份用于公共利益、开设新加坡办事处、Claude Frontier Academy投资1亿美元培养工程师、OpenAI打击AI虚假前沿操作、推出Study Mode教育功能
 - [2026-10-18](./daily_report_file/2026-10-18.md) - OpenAI推出GPT-6与智能UI面向12亿用户、Rosalind学术计划支持生命科学研究、AI数学研究成果发布、Google持续更新AI产品生态
 - [2026-10-17](./daily_report_file/2026-10-17.md) - Replit终止与Anthropic合作、印度报告流氓AI代理活动、Meta发布Mac运行开放权重模型、Elorian推出图像推理AI模型、Jev成为Vercel最快采用模型、新AI框架实现模型互相审计、新加坡与Anthropic合作公共部门AI、UPS使用AI寻找飞机替代零件、GovTech新加坡推出设备端诈骗检测器、Black Forest Labs开源FLUX 3图像模型
