@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-22](./daily_report_file/2026-10-22.md) - DeepSeek完成150亿美元融资宁德时代腾讯领投、Meta Muse用户突破1000万、Anthropic推出Claude Duet智能体、PHP漏洞引发全球安全危机、GPT-5.6 Sol协助发现PHP漏洞、Nvidia无法满足中国350亿美元芯片需求、TypeScript移植到Rust性能提升8倍、Walmart邀请AI智能体购物、DeepMind CEO称AGI将在2-3年内实现
 - [2026-10-21](./daily_report_file/2026-10-21.md) - 美国政府全面禁止DeepSeek、DeepMind AI代理通关Minecraft、AI初创公司ASI估值30亿美元、亚马逊开源TorchNeuron挑战英伟达、AI工具预测癌症生存率、美军开发AI自主攻击项目、纽约高中生游行要求暂停AI发展
 - [2026-10-20](./daily_report_file/2026-10-20.md) - OpenAI提升低资源编程语言能力GPT-6 Astra通过率87.4%、推出GPT-6及Intelligent UI面向12亿用户、发布数学研究成果、青少年学习工具College Planner、Anthropic公共利益基金、新加坡办事处、中期选举保护
 - [2026-10-19](./daily_report_file/2026-10-19.md) - Anthropic承诺股份用于公共利益、开设新加坡办事处、Claude Frontier Academy投资1亿美元培养工程师、OpenAI打击AI虚假前沿操作、推出Study Mode教育功能
