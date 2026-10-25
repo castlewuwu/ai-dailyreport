@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-25](./daily_report_file/2026-10-25.md) - Kimi K3.1 Pro成最强开源模型陷网红丑闻、OpenAI停止互联网训练模型、DeepSeek融资150亿美元、Claude Duet智能体上线、Canva发布图像模型
 - [2026-10-24](./daily_report_file/2026-10-24.md) - Kimi发布K3.1 Pro系列模型、AI图像生成实用指南发布、Dessa纯语音训练对话模型、图像生成市场进入成熟期
 - [2026-10-23](./daily_report_file/2026-10-23.md) - OpenAI估值突破1.25万亿美元IPO在即、Anthropic推出Claude Duet主动式AI代理、微软AI医疗能力超越医生、DeepSeek获150亿美元融资、Google与Synaptics发布开源AI芯片、Canva发布首个图像生成模型、NVIDIA GPU利用率问题引关注、PHP严重漏洞威胁互联网安全、Meta Muse用户突破1000万
 - [2026-10-22](./daily_report_file/2026-10-22.md) - DeepSeek完成150亿美元融资宁德时代腾讯领投、Meta Muse用户突破1000万、Anthropic推出Claude Duet智能体、PHP漏洞引发全球安全危机、GPT-5.6 Sol协助发现PHP漏洞、Nvidia无法满足中国350亿美元芯片需求、TypeScript移植到Rust性能提升8倍、Walmart邀请AI智能体购物、DeepMind CEO称AGI将在2-3年内实现
