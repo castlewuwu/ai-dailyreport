@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-26](./daily_report_file/2026-10-26.md) - Grok发布AI生成电影Odyssey片段、Apollo报告AI对大多数公司零财务回报、Block发布超拟人语音模型Dessa、AI可穿戴设备市场盘点、AI墓地清单发布
 - [2026-10-25](./daily_report_file/2026-10-25.md) - Kimi K3.1 Pro成最强开源模型陷网红丑闻、OpenAI停止互联网训练模型、DeepSeek融资150亿美元、Claude Duet智能体上线、Canva发布图像模型
 - [2026-10-24](./daily_report_file/2026-10-24.md) - Kimi发布K3.1 Pro系列模型、AI图像生成实用指南发布、Dessa纯语音训练对话模型、图像生成市场进入成熟期
 - [2026-10-23](./daily_report_file/2026-10-23.md) - OpenAI估值突破1.25万亿美元IPO在即、Anthropic推出Claude Duet主动式AI代理、微软AI医疗能力超越医生、DeepSeek获150亿美元融资、Google与Synaptics发布开源AI芯片、Canva发布首个图像生成模型、NVIDIA GPU利用率问题引关注、PHP严重漏洞威胁互联网安全、Meta Muse用户突破1000万
