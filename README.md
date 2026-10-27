@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-27](./daily_report_file/2026-10-27.md) - OpenAI发布GPT-6.1 Terra模型、Anthropic正式提交IPO申请、Cohere指控阿里巴巴Qwen模型安全隐患、SpaceX签400亿美元GPU融资协议、GitHub前CEO推出Entire平台
 - [2026-10-26](./daily_report_file/2026-10-26.md) - Grok发布AI生成电影Odyssey片段、Apollo报告AI对大多数公司零财务回报、Block发布超拟人语音模型Dessa、AI可穿戴设备市场盘点、AI墓地清单发布
 - [2026-10-25](./daily_report_file/2026-10-25.md) - Kimi K3.1 Pro成最强开源模型陷网红丑闻、OpenAI停止互联网训练模型、DeepSeek融资150亿美元、Claude Duet智能体上线、Canva发布图像模型
 - [2026-10-24](./daily_report_file/2026-10-24.md) - Kimi发布K3.1 Pro系列模型、AI图像生成实用指南发布、Dessa纯语音训练对话模型、图像生成市场进入成熟期
