@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-29](./daily_report_file/2026-10-29.md) - OpenAI发布GPT-6.1 Terra计算机使用模型、Anthropic提交IPO申请加速药物研发、OpenAI扩大企业合作连接Oracle和ServiceNow、Google Gemini 4 Argon上线前沿推理能力
 - [2026-10-28](./daily_report_file/2026-10-28.md) - OpenAI发布GPT-6.1 Terra计算机使用模型、Anthropic IPO引发关注、OpenAI与Oracle合作企业应用集成、研究人员不满OpenAI封锁突破、Anthropic发布Claude药物开发进展、Google DeepMind发布Genie 4世界模拟器
 - [2026-10-27](./daily_report_file/2026-10-27.md) - OpenAI发布GPT-6.1 Terra模型、Anthropic正式提交IPO申请、Cohere指控阿里巴巴Qwen模型安全隐患、SpaceX签400亿美元GPU融资协议、GitHub前CEO推出Entire平台
 - [2026-10-26](./daily_report_file/2026-10-26.md) - Grok发布AI生成电影Odyssey片段、Apollo报告AI对大多数公司零财务回报、Block发布超拟人语音模型Dessa、AI可穿戴设备市场盘点、AI墓地清单发布
