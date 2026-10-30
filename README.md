@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-30](./daily_report_file/2026-10-30.md) - Mistral Large 4开放万亿参数模型、MiniMax开源16个Agent技能、Qwenputer在模型权重编译RISC-V CPU、OpenAI隔离Agent通信实验、Pico CSS因AI停止维护
 - [2026-10-29](./daily_report_file/2026-10-29.md) - OpenAI发布GPT-6.1 Terra计算机使用模型、Anthropic提交IPO申请加速药物研发、OpenAI扩大企业合作连接Oracle和ServiceNow、Google Gemini 4 Argon上线前沿推理能力
 - [2026-10-28](./daily_report_file/2026-10-28.md) - OpenAI发布GPT-6.1 Terra计算机使用模型、Anthropic IPO引发关注、OpenAI与Oracle合作企业应用集成、研究人员不满OpenAI封锁突破、Anthropic发布Claude药物开发进展、Google DeepMind发布Genie 4世界模拟器
 - [2026-10-27](./daily_report_file/2026-10-27.md) - OpenAI发布GPT-6.1 Terra模型、Anthropic正式提交IPO申请、Cohere指控阿里巴巴Qwen模型安全隐患、SpaceX签400亿美元GPU融资协议、GitHub前CEO推出Entire平台
