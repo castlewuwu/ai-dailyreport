@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-10-31](./daily_report_file/2026-10-31.md) - OpenAI发布GPT-6.1 Sol和Astra新模型、Anthropic提交IPO申请并发布Claude Opus 5.5、国产大模型快速发展、具身智能与智能驾驶最新进展
 - [2026-10-30](./daily_report_file/2026-10-30.md) - Mistral Large 4开放万亿参数模型、MiniMax开源16个Agent技能、Qwenputer在模型权重编译RISC-V CPU、OpenAI隔离Agent通信实验、Pico CSS因AI停止维护
 - [2026-10-29](./daily_report_file/2026-10-29.md) - OpenAI发布GPT-6.1 Terra计算机使用模型、Anthropic提交IPO申请加速药物研发、OpenAI扩大企业合作连接Oracle和ServiceNow、Google Gemini 4 Argon上线前沿推理能力
 - [2026-10-28](./daily_report_file/2026-10-28.md) - OpenAI发布GPT-6.1 Terra计算机使用模型、Anthropic IPO引发关注、OpenAI与Oracle合作企业应用集成、研究人员不满OpenAI封锁突破、Anthropic发布Claude药物开发进展、Google DeepMind发布Genie 4世界模拟器
