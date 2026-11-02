@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-02](./daily_report_file/2026-11-02.md) - OpenAI考虑将数据中心更名为AI计算园区、Apple CEO称不会为了AI而AI、Yann LeCun发表柏拉图表示假设新论文、OpenAI调低新一轮融资目标、Trigger.dev安全事件、AI生成游戏Wiki错误问题
 - [2026-11-01](./daily_report_file/2026-11-01.md) - OpenAI更新Model Spec五大核心价值观、微软AI诊断工具超越医生、德国NVIDIA百亿欧元工业AI合作、美国银行阻止AI代理访问、UnitedHealthcare扩展AI助手至2100万会员
 - [2026-10-31](./daily_report_file/2026-10-31.md) - OpenAI发布GPT-6.1 Sol和Astra新模型、Anthropic提交IPO申请并发布Claude Opus 5.5、国产大模型快速发展、具身智能与智能驾驶最新进展
 - [2026-10-30](./daily_report_file/2026-10-30.md) - Mistral Large 4开放万亿参数模型、MiniMax开源16个Agent技能、Qwenputer在模型权重编译RISC-V CPU、OpenAI隔离Agent通信实验、Pico CSS因AI停止维护
