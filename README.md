@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-04](./daily_report_file/2026-11-04.md) - CNCC 2026专家激辩智能体安全挑战、GPT 6.1 Sol与Claude Sonnet 5.5对比实测、RoboScience机器科学完成A2轮融资、Anthropic披露AI造AI进展到26%
 - [2026-11-03](./daily_report_file/2026-11-03.md) - MIT团队用GPT-6 Astra实现神经网络基因编辑、OpenAI发布LifeVal日常生活评估基准、Anthropic申请纳斯达克上市、Mistral Large 4开源发布、OpenAI安全计划与漏洞赏金升级
 - [2026-11-02](./daily_report_file/2026-11-02.md) - OpenAI考虑将数据中心更名为AI计算园区、Apple CEO称不会为了AI而AI、Yann LeCun发表柏拉图表示假设新论文、OpenAI调低新一轮融资目标、Trigger.dev安全事件、AI生成游戏Wiki错误问题
 - [2026-11-01](./daily_report_file/2026-11-01.md) - OpenAI更新Model Spec五大核心价值观、微软AI诊断工具超越医生、德国NVIDIA百亿欧元工业AI合作、美国银行阻止AI代理访问、UnitedHealthcare扩展AI助手至2100万会员
