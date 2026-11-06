@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-06](./daily_report_file/2026-11-06.md) - OpenAI发布GPT-6 Cyber网络安全模型、收购Pierre Computer、推出Images 2.6、Airbnb计划AI旅行代理、Claude个人财务工具、Dropbox收购Tigris Data
 - [2026-11-05](./daily_report_file/2026-11-05.md) - Ripple-65B Preview开源编程模型发布、Meta收购Conductor、MIT实现神经网络基因编辑、Fal估值翻倍至160亿美元
 - [2026-11-04](./daily_report_file/2026-11-04.md) - CNCC 2026专家激辩智能体安全挑战、GPT 6.1 Sol与Claude Sonnet 5.5对比实测、RoboScience机器科学完成A2轮融资、Anthropic披露AI造AI进展到26%
 - [2026-11-03](./daily_report_file/2026-11-03.md) - MIT团队用GPT-6 Astra实现神经网络基因编辑、OpenAI发布LifeVal日常生活评估基准、Anthropic申请纳斯达克上市、Mistral Large 4开源发布、OpenAI安全计划与漏洞赏金升级
