@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-09](./daily_report_file/2026-11-09.md) - Nvidia CEO面临间谍丑闻、OpenAI再获110亿美元融资估值1.25万亿美元、发布GPT-6 Cyber网络安全模型、Meta推出Spaces协作功能、MIT神经网络基因编辑、Airbnb计划AI旅行代理
 - [2026-11-08](./daily_report_file/2026-11-08.md) - OpenAI再获110亿美元融资估值1.25万亿美元、收购Pierre Computer进军硬件、发布GPT-6 Cyber网络安全模型、Meta推出Spaces协作功能、Airbnb计划AI旅行代理、Claude个人财务工具、AWS Kiro AI代理
 - [2026-11-07](./daily_report_file/2026-11-07.md) - OpenAI再获110亿美元融资估值1.25万亿美元、Dropbox收购Tigris Data、Airbnb推出AI旅行代理、Meta发布Spaces协作功能、Claude个人财务工具、Physicl融资1000万美元
 - [2026-11-06](./daily_report_file/2026-11-06.md) - OpenAI发布GPT-6 Cyber网络安全模型、收购Pierre Computer、推出Images 2.6、Airbnb计划AI旅行代理、Claude个人财务工具、Dropbox收购Tigris Data
