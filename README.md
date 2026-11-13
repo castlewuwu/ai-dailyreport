@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-13](./daily_report_file/2026-11-13.md) - Anthropic推出Claude Whiteboards/Sheets/Data、xAI发布Grok Bot 1.0团队协作、OpenAI发布GPT-6 Cyber网络安全模型、Google Gemini 4 Carbon仅限安全专家、MiniMax开源H3-Image 4K图像模型、Moonshot开源Kimi K3.1 Pro权重、四大AI巨头支持统一训练opt-out信号
 - [2026-11-12](./daily_report_file/2026-11-12.md) - Google发布Gemini Decision 1决策模型、Google Cloud推出Gemini for Healthcare预览版、OpenAI网络安全模型发现948个Linux内核漏洞、OpenAI推出ChatGPT企业认领功能、Anthropic发布Claude Fable 5.2和Mythos 5.2
 - [2026-11-11](./daily_report_file/2026-11-11.md) - Nvidia CEO Jensen Huang卷入间谍丑闻、Anthropic目标估值1.4万亿美元IPO、BotPsy发布10亿参数以下最强Agent模型、Gilbert + Tobin律所AI转型案例、OpenAI季度收入100亿美元、AI基础设施危机全球反抗运动
 - [2026-11-10](./daily_report_file/2026-11-10.md) - OpenAI发布Images 2.6图像生成速度提升50%、推出LifeVal评估AI日常生活能力、加速物理世界工程应用、GPT-6 Astra端到端设备设计能力
