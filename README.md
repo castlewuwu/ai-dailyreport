@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-16](./daily_report_file/2026-11-16.md) - OpenAI发布ChatGPT Wallet开启AI代理支付时代、Anthropic发布Claude Fable 5.2和Mythos 5.2、Google发布Gemini 4 Hydrogen智能体工作流新引擎、OpenAI推出Businesses in ChatGPT、Microsoft与俄亥俄州立大学共建Azure智能医院
 - [2026-11-15](./daily_report_file/2026-11-15.md) - Microsoft与俄亥俄州立大学共建Azure智能医院、联合航空与JetBlue对AI预订代理态度分化、Google Cloud发布Gemini for Healthcare预览版、纽约州启动前沿AI研究中心NYCAIRR、Google.org向Clalit提供语音AI医疗资助
 - [2026-11-14](./daily_report_file/2026-11-14.md) - OpenAI发布GPT-6.1 Terra成本降低50%、Images 2.6支持GIF动画、Navier-Stokes数学问题突破、NVIDIA发布Nemotron 3.5 Transcribe、LifeVal日常生活评估基准、前沿模型误配检测方法
 - [2026-11-13](./daily_report_file/2026-11-13.md) - Anthropic推出Claude Whiteboards/Sheets/Data、xAI发布Grok Bot 1.0团队协作、OpenAI发布GPT-6 Cyber网络安全模型、Google Gemini 4 Carbon仅限安全专家、MiniMax开源H3-Image 4K图像模型、Moonshot开源Kimi K3.1 Pro权重、四大AI巨头支持统一训练opt-out信号
