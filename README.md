@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-21](./daily_report_file/2026-11-21.md) - OpenAI发布MedChemBench药物发现基准、AI代理完成46%研究任务、Codex沙箱架构公开、Anthropic股价首日暴涨33%、Nvidia黄仁勋丑闻持续发酵、Apple秘密开发Mac AI代理、Google Gemini新增Mac控制功能、AI与人类同时挑战黎曼猜想
 - [2026-11-18](./daily_report_file/2026-11-18.md) - OpenAI发布GPT-6.2 Astra和Sol、ChatGPT for Sales销售专用AI、Astra for Law法律智能领先、Nvidia持股飙升至655亿美元、Amazon和Google将持有Anthropic近30%股份、Isomorphic Labs完成50亿美元C轮融资、LVMH媒体部门与OpenAI战略合作
 - [2026-11-16](./daily_report_file/2026-11-16.md) - OpenAI发布ChatGPT Wallet开启AI代理支付时代、Anthropic发布Claude Fable 5.2和Mythos 5.2、Google发布Gemini 4 Hydrogen智能体工作流新引擎、OpenAI推出Businesses in ChatGPT、Microsoft与俄亥俄州立大学共建Azure智能医院
 - [2026-11-15](./daily_report_file/2026-11-15.md) - Microsoft与俄亥俄州立大学共建Azure智能医院、联合航空与JetBlue对AI预订代理态度分化、Google Cloud发布Gemini for Healthcare预览版、纽约州启动前沿AI研究中心NYCAIRR、Google.org向Clalit提供语音AI医疗资助
