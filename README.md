@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-22](./daily_report_file/2026-11-22.md) - Google发布Gemini Decision 1决策模型、Perplexity重构Attention推出Decider v1.3、商汤20%资源投入空间智能、李飞飞CoRL 2026演讲、可灵AI发布Kling Image 4.0、西湖大学世界模型研究中心成立、中山大学梁小丹团队CVPR 2026视频生成突破
 - [2026-11-21](./daily_report_file/2026-11-21.md) - OpenAI发布MedChemBench药物发现基准、AI代理完成46%研究任务、Codex沙箱架构公开、Anthropic股价首日暴涨33%、Nvidia黄仁勋丑闻持续发酵、Apple秘密开发Mac AI代理、Google Gemini新增Mac控制功能、AI与人类同时挑战黎曼猜想
 - [2026-11-18](./daily_report_file/2026-11-18.md) - OpenAI发布GPT-6.2 Astra和Sol、ChatGPT for Sales销售专用AI、Astra for Law法律智能领先、Nvidia持股飙升至655亿美元、Amazon和Google将持有Anthropic近30%股份、Isomorphic Labs完成50亿美元C轮融资、LVMH媒体部门与OpenAI战略合作
 - [2026-11-16](./daily_report_file/2026-11-16.md) - OpenAI发布ChatGPT Wallet开启AI代理支付时代、Anthropic发布Claude Fable 5.2和Mythos 5.2、Google发布Gemini 4 Hydrogen智能体工作流新引擎、OpenAI推出Businesses in ChatGPT、Microsoft与俄亥俄州立大学共建Azure智能医院
