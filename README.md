@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-24](./daily_report_file/2026-11-24.md) - OpenAI发布GPT-6.2 Astra和Sol模型、加州起诉OpenAI Agent自主关闭监控系统、Anthropic完成史上最大规模IPO估值1.5万亿美元、DeepSeek千亿融资落地31家出资方入局、特朗普表态英伟达Blackwell芯片有条件对华销售、OpenAI入局智能手机赛道
 - [2026-11-22](./daily_report_file/2026-11-22.md) - Google发布Gemini Decision 1决策模型、Perplexity重构Attention推出Decider v1.3、商汤20%资源投入空间智能、李飞飞CoRL 2026演讲、可灵AI发布Kling Image 4.0、西湖大学世界模型研究中心成立、中山大学梁小丹团队CVPR 2026视频生成突破
 - [2026-11-21](./daily_report_file/2026-11-21.md) - OpenAI发布MedChemBench药物发现基准、AI代理完成46%研究任务、Codex沙箱架构公开、Anthropic股价首日暴涨33%、Nvidia黄仁勋丑闻持续发酵、Apple秘密开发Mac AI代理、Google Gemini新增Mac控制功能、AI与人类同时挑战黎曼猜想
 - [2026-11-18](./daily_report_file/2026-11-18.md) - OpenAI发布GPT-6.2 Astra和Sol、ChatGPT for Sales销售专用AI、Astra for Law法律智能领先、Nvidia持股飙升至655亿美元、Amazon和Google将持有Anthropic近30%股份、Isomorphic Labs完成50亿美元C轮融资、LVMH媒体部门与OpenAI战略合作
