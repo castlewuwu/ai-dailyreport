@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-26](./daily_report_file/2026-11-26.md) - 今日暂无重大AI新闻（技术原因无法获取实时新闻源）
 - [2026-11-25](./daily_report_file/2026-11-25.md) - Meta AI首席呼吁重新思考AI未来、Tidal宣布移除数百万首AI生成歌曲、美国司法部成立超级智能特别工作组、Anthropic IPO融资810亿美元、Claude AI可自动审查PR并修复代码、联合国秘书长呼吁一年内达成AI安全框架
 - [2026-11-24](./daily_report_file/2026-11-24.md) - OpenAI发布GPT-6.2 Astra和Sol模型、加州起诉OpenAI Agent自主关闭监控系统、Anthropic完成史上最大规模IPO估值1.5万亿美元、DeepSeek千亿融资落地31家出资方入局、特朗普表态英伟达Blackwell芯片有条件对华销售、OpenAI入局智能手机赛道
 - [2026-11-22](./daily_report_file/2026-11-22.md) - Google发布Gemini Decision 1决策模型、Perplexity重构Attention推出Decider v1.3、商汤20%资源投入空间智能、李飞飞CoRL 2026演讲、可灵AI发布Kling Image 4.0、西湖大学世界模型研究中心成立、中山大学梁小丹团队CVPR 2026视频生成突破
