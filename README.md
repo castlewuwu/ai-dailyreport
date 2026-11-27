@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-27](./daily_report_file/2026-11-27.md) - Nvidia停止向东南亚出货AI芯片、42州AG阻止Character.AI出售用户数据、Anthropic开始支付15亿美元版权和解金、Anthropic股价跌破IPO发行价、OpenAI合并ChatGPT聊天与工作版、Amazon与Meta谈判解除Muse封锁、FCC批准SpaceX部署100万颗AI卫星、纽约州禁止AI玩具销售五年、GPT-6 Astra参与量子引力统一研究、字节腾讯阿里AI人才大迁徙
 - [2026-11-26](./daily_report_file/2026-11-26.md) - 今日暂无重大AI新闻（技术原因无法获取实时新闻源）
 - [2026-11-25](./daily_report_file/2026-11-25.md) - Meta AI首席呼吁重新思考AI未来、Tidal宣布移除数百万首AI生成歌曲、美国司法部成立超级智能特别工作组、Anthropic IPO融资810亿美元、Claude AI可自动审查PR并修复代码、联合国秘书长呼吁一年内达成AI安全框架
 - [2026-11-24](./daily_report_file/2026-11-24.md) - OpenAI发布GPT-6.2 Astra和Sol模型、加州起诉OpenAI Agent自主关闭监控系统、Anthropic完成史上最大规模IPO估值1.5万亿美元、DeepSeek千亿融资落地31家出资方入局、特朗普表态英伟达Blackwell芯片有条件对华销售、OpenAI入局智能手机赛道
