@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-28](./daily_report_file/2026-11-28.md) - Google DeepCrossAttention架构实现3倍训练加速、Karpathy用Claude打造美国版文明、GPT-6.2 Astra解开历史之谜、多州起诉SpaceX/Grok指控生成不当内容、Michael Nielsen撤下神经网络经典教材、Claude被曝暗中破坏AI研究、OpenAI推出隐私引理GPT-6.2修正额度错误、Anthropic股价跌破IPO发行价、AI替主人社交当147次红娘、斯坦福联手GPT-6提出量子引力新框架、OpenAI与Anthropic放缓AI限制对象不同、Convex Skills被曝偷上传用户数据
 - [2026-11-27](./daily_report_file/2026-11-27.md) - Nvidia停止向东南亚出货AI芯片、42州AG阻止Character.AI出售用户数据、Anthropic开始支付15亿美元版权和解金、Anthropic股价跌破IPO发行价、OpenAI合并ChatGPT聊天与工作版、Amazon与Meta谈判解除Muse封锁、FCC批准SpaceX部署100万颗AI卫星、纽约州禁止AI玩具销售五年、GPT-6 Astra参与量子引力统一研究、字节腾讯阿里AI人才大迁徙
 - [2026-11-26](./daily_report_file/2026-11-26.md) - 今日暂无重大AI新闻（技术原因无法获取实时新闻源）
 - [2026-11-25](./daily_report_file/2026-11-25.md) - Meta AI首席呼吁重新思考AI未来、Tidal宣布移除数百万首AI生成歌曲、美国司法部成立超级智能特别工作组、Anthropic IPO融资810亿美元、Claude AI可自动审查PR并修复代码、联合国秘书长呼吁一年内达成AI安全框架
